@@ -1,0 +1,1304 @@
+Company,TypeName,Inches,Ram,OpSys,Weight,SSD,HDD,Flash,Hybrid,Cpu_Brand,Cpu_Model,Cpu_ClockSpeed,Gpu_Brand,Gpu_Series,Gpu_Model,ScreenType,ScreenWidth,Touchscreen,Price
+Apple,Ultrabook,13.3,8,macOS,1.37,128,0,0,0,Intel,Other,2.3,Intel,Iris,Other,IPS Display,2560,False,71378.6832
+Apple,Ultrabook,13.3,8,macOS,1.34,0,0,128,0,Intel,Other,1.8,Intel,HD,Other,Other,1440,False,47895.5232
+HP,Notebook,15.6,8,No OS,1.86,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,30636.0
+Apple,Ultrabook,15.4,16,macOS,1.83,512,0,0,0,Intel,Other,2.7,AMD,Radeon,Other,IPS Display,2880,False,135195.33599999998
+Apple,Ultrabook,13.3,8,macOS,1.37,256,0,0,0,Intel,Other,3.1,Intel,Iris,Other,IPS Display,2560,False,96095.808
+Acer,Notebook,15.6,4,Windows,2.1,0,500,0,0,AMD,Other,3.0,AMD,Radeon,R5,Other,1366,False,21312.0
+Apple,Ultrabook,15.4,16,macOS,2.04,0,0,256,0,Intel,Other,2.2,Intel,Iris,Other,IPS Display,2880,False,114017.6016
+Apple,Ultrabook,13.3,8,macOS,1.34,0,0,256,0,Intel,Other,1.8,Intel,HD,Other,Other,1440,False,61735.536
+Asus,Ultrabook,14.0,16,Windows,1.3,512,0,0,0,Intel,Core i7,1.8,Nvidia,GeForce,MX150,Standard Display,1920,False,79653.59999999999
+Acer,Ultrabook,14.0,8,Windows,1.6,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,False,41025.6
+HP,Notebook,15.6,4,No OS,1.86,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,20986.992
+HP,Notebook,15.6,4,No OS,1.86,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,18381.0672
+Apple,Ultrabook,15.4,16,macOS,1.83,256,0,0,0,Intel,Other,2.8,AMD,Radeon,Other,IPS Display,2880,False,130001.6016
+Dell,Notebook,15.6,4,Windows,2.2,256,0,0,0,Intel,Core i3,2.0,AMD,Radeon,R5 M430,Standard Display,1920,False,26581.392
+Apple,Ultrabook,12.0,8,macOS,0.92,256,0,0,0,Intel,Other,1.2,Intel,HD,Graphics 615,IPS Display,2304,False,67260.672
+Apple,Ultrabook,13.3,8,macOS,1.37,256,0,0,0,Intel,Other,2.3,Intel,Iris,Other,IPS Display,2560,False,80908.344
+Dell,Notebook,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i7,2.7,AMD,Radeon,R5 M430,Standard Display,1920,False,39693.6
+Apple,Ultrabook,15.4,16,macOS,1.83,512,0,0,0,Intel,Other,2.9,AMD,Radeon,Other,IPS Display,2880,False,152274.24
+Lenovo,Notebook,15.6,8,No OS,2.2,0,1024,0,0,Intel,Core i3,2.4,Nvidia,GeForce,940MX,Standard Display,1920,False,26586.72
+Dell,Ultrabook,13.3,8,Windows,1.22,128,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,True,52161.12
+Asus,Netbook,11.6,2,Windows,0.98,0,0,32,0,Intel,Other,1.44,Intel,HD,Graphics 400,Other,1366,False,10224.432
+Lenovo,Gaming,15.6,8,Windows,2.5,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,53226.72
+HP,Notebook,15.6,4,No OS,1.86,0,500,0,0,AMD,Other,1.5,AMD,Radeon,Other,Other,1366,False,13746.24
+Dell,2 in 1 Convertible,13.3,8,Windows,1.62,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,True,43636.32
+HP,Ultrabook,15.6,8,Windows,1.91,256,0,0,0,Intel,Core i7,1.8,Intel,HD,Graphics 620,Standard Display,1920,False,35111.52
+Dell,Notebook,15.6,4,Windows,2.3,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,22305.1392
+Apple,Ultrabook,13.3,8,macOS,1.35,0,0,128,0,Intel,Other,1.6,Intel,HD,Other,Other,1440,False,58554.72
+Dell,Notebook,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i5,1.6,AMD,Radeon,530,Standard Display,1920,False,42624.0
+Dell,Ultrabook,15.6,8,Windows,1.88,256,0,0,0,Intel,Core i7,1.9,Intel,UHD,Graphics 620,Standard Display,1920,False,69157.44
+HP,Notebook,17.3,8,Windows,2.5,0,1024,0,0,Intel,Core i5,1.6,Nvidia,GeForce,930MX,Standard Display,1920,False,47738.88
+Chuwi,Notebook,15.6,4,Windows,1.89,0,0,64,0,Intel,Other,1.44,Intel,HD,Graphics,Standard Display,1920,False,13053.0672
+Asus,Notebook,14.0,2,Windows,1.65,0,0,32,0,AMD,Other,1.5,AMD,Radeon,Other,Other,1366,False,10602.72
+HP,Notebook,17.3,4,Windows,2.71,0,500,0,0,AMD,Other,2.5,AMD,Radeon,530,Standard Display,1920,False,23389.92
+Dell,Ultrabook,13.3,16,Windows,1.2,512,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Touchscreen Display,3200,True,99580.32
+Apple,Ultrabook,13.3,8,macOS,1.35,0,0,256,0,Intel,Other,1.6,Intel,HD,Other,Other,1440,False,53173.44
+Lenovo,Notebook,14.0,4,Windows,1.44,0,0,64,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,13266.72
+Acer,Notebook,15.6,4,Linux,2.1,0,1024,0,0,Intel,Core i3,2.7,Intel,HD,Graphics 620,Other,1366,False,19553.76
+Dell,Notebook,17.3,8,Windows,2.8,128,1024,0,0,Intel,Core i5,1.6,AMD,Radeon,530,IPS Display,1920,False,52161.12
+HP,Notebook,15.6,4,Windows,1.86,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,26037.4032
+HP,Notebook,15.6,8,Windows,2.1,256,0,0,0,Intel,Core i5,1.6,Nvidia,GeForce,930MX,Standard Display,1920,False,46833.12
+Asus,Notebook,15.6,4,Linux,2.0,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 620,Standard Display,1920,False,20725.92
+Dell,Gaming,15.6,16,Windows,2.65,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,79866.72
+Asus,Notebook,15.6,8,Linux,2.3,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,940MX,Other,1366,False,27864.9072
+Acer,Notebook,15.6,4,Windows,2.2,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,False,36336.96
+Dell,2 in 1 Convertible,17.3,12,Windows,2.77,0,1024,0,0,Intel,Core i5,1.6,Nvidia,GeForce,Other,Standard Display,1920,True,53226.72
+Apple,Ultrabook,13.3,8,macOS,1.37,256,0,0,0,Intel,Other,2.0,Intel,Iris,Other,IPS Display,2560,False,75604.31999999999
+Lenovo,Notebook,15.6,4,No OS,2.2,128,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,19660.32
+Asus,Gaming,17.3,8,Windows,3.2,256,1024,0,0,AMD,Other,3.0,AMD,Radeon,Other,Standard Display,1920,False,69210.72
+Dell,Notebook,15.6,4,Windows,2.3,256,0,0,0,Intel,Core i5,2.5,AMD,Radeon,R5 M430,Standard Display,1920,False,34045.92
+Asus,Notebook,17.3,4,Windows,2.8,0,1024,0,0,Intel,Other,1.1,Nvidia,GeForce,920MX,Other,1366,False,24828.48
+Lenovo,2 in 1 Convertible,10.1,4,Android,0.69,0,0,64,0,Intel,Other,1.44,Intel,HD,Graphics 400,IPS Display,1920,True,16996.32
+Acer,Notebook,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i7,1.8,Nvidia,GeForce,MX150,IPS Display,1920,False,44808.48
+HP,Notebook,15.6,4,Windows,1.86,256,0,0,0,AMD,Other,2.5,AMD,Radeon,Other,Standard Display,1920,False,21231.5472
+HP,Notebook,13.3,8,Windows,1.49,512,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,False,58767.84
+Acer,Notebook,15.6,4,Windows,2.4,0,1024,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,20459.52
+Dell,Notebook,15.6,8,Windows,2.13,256,0,0,0,Intel,Core i7,1.8,AMD,Radeon,520,Standard Display,1920,False,40908.384
+HP,Notebook,15.6,4,Windows,1.91,128,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,23389.92
+Asus,Notebook,15.6,4,Windows,2.0,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,31232.203200000004
+MSI,Gaming,17.3,16,Windows,2.43,256,2048,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,130482.72
+Asus,Notebook,15.6,4,Linux,2.0,256,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,22111.2
+Dell,Notebook,17.3,16,Windows,2.8,256,2048,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,69210.72
+Dell,Ultrabook,14.0,8,Windows,1.7,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,False,46833.12
+Lenovo,Notebook,14.0,8,No OS,1.7,256,0,0,0,Intel,Core i3,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,31914.72
+Asus,Notebook,14.0,8,Windows,1.4,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,False,50136.48
+HP,Notebook,15.6,8,Windows,1.86,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,36763.2
+Asus,Ultrabook,15.6,16,Windows,1.8,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,105654.24
+HP,Notebook,15.6,4,Windows,1.86,0,500,0,0,Intel,Core i3,2.0,AMD,Radeon,520,Other,1366,False,23373.4032
+HP,Notebook,14.0,4,Windows,1.44,32,0,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,12201.12
+Lenovo,Notebook,15.6,4,Windows,1.9,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,29250.72
+Asus,Gaming,17.3,12,Linux,3.0,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,50562.72
+Microsoft,Ultrabook,13.5,4,Windows,1.252,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Touchscreen Display,2256,True,58021.92
+Dell,Ultrabook,13.3,8,Windows,1.4,256,0,0,0,Intel,Core i7,1.8,AMD,Radeon,530,IPS Display,1920,False,50882.4
+Dell,Notebook,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,46353.6
+MSI,Gaming,17.3,8,Windows,2.7,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,58341.6
+Acer,Notebook,14.0,8,Windows,2.1,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,20725.92
+Asus,Gaming,15.6,8,Windows,2.2,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,50562.72
+Lenovo,Notebook,15.6,8,No OS,2.2,0,2048,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,27652.32
+Dell,Notebook,15.6,8,Windows,2.02,128,1024,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,False,45554.4
+Acer,Notebook,15.6,4,Windows,2.2,0,1024,0,0,Intel,Core i3,2.7,Nvidia,GeForce,Other,Standard Display,1920,False,28238.4
+HP,Notebook,17.3,8,Windows,2.5,128,1024,0,0,Intel,Core i5,1.6,Nvidia,GeForce,930MX,Standard Display,1920,False,52054.56
+Dell,Ultrabook,15.6,8,Windows,1.88,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,False,58403.4048
+Apple,Ultrabook,12.0,8,macOS,0.92,512,0,0,0,Intel,Other,1.3,Intel,HD,Graphics 615,IPS Display,2304,False,80452.8
+HP,Notebook,14.0,8,Windows,1.63,256,0,0,0,Intel,Core i5,1.6,Intel,HD,Graphics 620,Standard Display,1920,False,45820.8
+Lenovo,Notebook,15.6,4,Windows,2.2,128,0,0,0,AMD,Other,2.5,AMD,R4,Graphics,Standard Display,1920,False,21258.72
+Acer,Notebook,15.6,4,Windows,2.1,0,1024,0,0,AMD,Other,3.0,AMD,Radeon,R5,Other,1366,False,21045.6
+Dell,Gaming,15.6,16,Windows,2.65,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,IPS Display,1920,False,71874.72
+HP,Ultrabook,15.6,8,Windows,1.83,256,0,0,0,Intel,Core i7,1.8,Nvidia,GeForce,Other,IPS Display,1920,False,37242.72
+HP,Notebook,15.6,8,Windows,1.96,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,31914.1872
+Asus,Gaming,15.6,16,Windows,2.2,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,77202.72
+Dell,Ultrabook,13.3,8,Windows,1.21,256,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,IPS Display,1920,False,87858.72
+Asus,Gaming,15.6,8,Windows,2.45,0,1024,0,0,AMD,Other,3.0,AMD,Radeon,Other,Standard Display,1920,False,37242.72
+Acer,Notebook,15.6,8,Windows,2.2,0,1024,0,0,Intel,Core i7,1.8,Nvidia,GeForce,MX150,Standard Display,1920,False,36709.92
+HP,Notebook,13.3,16,Windows,1.49,512,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,False,63776.16
+Dell,Gaming,15.6,8,Windows,2.65,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,63669.6
+Asus,Ultrabook,14.0,8,Windows,1.25,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,55890.72
+Acer,2 in 1 Convertible,13.3,8,Windows,1.5,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,True,45128.16
+Dell,Notebook,15.6,8,Linux,2.2,0,1024,0,0,Intel,Core i7,2.7,AMD,Radeon,R5 M430,Standard Display,1920,False,31962.672
+Dell,Notebook,15.6,4,Linux,2.2,256,0,0,0,Intel,Core i3,2.0,AMD,Radeon,R5 M430,Standard Display,1920,False,25840.8
+Asus,Notebook,15.6,6,Windows,2.0,256,0,0,0,Intel,Core i3,2.4,Nvidia,GeForce,Other,Standard Display,1920,False,30742.56
+HP,Gaming,15.6,12,Windows,2.62,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,66546.72
+HP,Notebook,15.6,8,Windows,1.91,256,0,0,0,Intel,Core i7,2.7,AMD,Radeon,530,Standard Display,1920,False,38308.32
+HP,Notebook,15.6,4,Windows,2.1,0,500,0,0,AMD,Other,1.5,AMD,Radeon,Other,Standard Display,1920,False,18594.72
+Dell,Notebook,15.6,8,Linux,2.2,0,1024,0,0,Intel,Core i5,1.6,AMD,Radeon,520,Standard Display,1920,False,34472.16
+HP,Ultrabook,13.3,8,Windows,1.38,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,MX150,IPS Display,1920,False,59620.32
+Microsoft,Ultrabook,13.5,8,Windows,1.252,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Touchscreen Display,2256,True,71395.2
+HP,Notebook,14.0,6,Windows,1.58,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,940MX,IPS Display,1920,False,35111.52
+Lenovo,Notebook,15.6,4,Windows,1.85,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,22105.872
+Asus,Ultrabook,14.0,8,Windows,1.3,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,IPS Display,1920,False,63563.04
+MSI,Gaming,15.6,16,Windows,2.2,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,69210.72
+Lenovo,Notebook,14.0,8,Windows,1.58,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,78854.4
+Asus,Ultrabook,15.6,16,Windows,1.5,256,1024,0,0,Intel,Core i7,1.8,Nvidia,GeForce,MX150,Standard Display,1920,False,67239.36
+Dell,Ultrabook,13.3,8,Windows,1.23,256,0,0,0,Intel,Core i7,2.4,Intel,Iris,Other,Touchscreen Display,3200,True,73473.12
+Lenovo,2 in 1 Convertible,13.3,8,Windows,1.37,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,True,74538.72
+HP,Notebook,14.0,4,Windows,1.63,0,500,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1366,False,38468.16
+Dell,Ultrabook,13.3,8,Windows,1.21,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,False,86793.12
+HP,2 in 1 Convertible,13.3,8,Windows,1.26,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,True,74538.1872
+HP,Notebook,14.0,8,Windows,1.63,512,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,False,57755.52
+Dell,Notebook,15.6,8,Windows,2.16,256,1024,0,0,Intel,Core i7,1.8,Nvidia,GeForce,940MX,IPS Display,1920,False,60223.98239999999
+Asus,Notebook,17.3,4,Windows,2.0,0,1024,0,0,Intel,Core i3,2.0,Nvidia,GeForce,920MX,Standard Display,1920,False,30049.92
+Asus,Notebook,15.6,8,Windows,1.7,256,0,0,0,Intel,Core i7,1.8,Nvidia,GeForce,940MX,Standard Display,1920,False,59567.04
+Acer,Notebook,15.6,6,Windows,2.1,0,1024,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,IPS Display,1920,True,25521.12
+MSI,Gaming,15.6,16,Windows,1.8,256,2048,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,119427.12
+Lenovo,Notebook,15.6,8,No OS,2.2,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,940MX,Standard Display,1920,False,33513.119999999995
+HP,Notebook,17.3,16,Windows,2.5,512,0,0,0,Intel,Core i7,1.8,Nvidia,GeForce,930MX,Standard Display,1920,False,67718.88
+Acer,Notebook,15.6,4,Windows,2.1,256,0,0,0,AMD,Other,3.0,AMD,Radeon,R5,Other,1366,False,24029.28
+HP,Notebook,15.6,4,No OS,1.86,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,13799.52
+HP,Notebook,14.0,8,Windows,1.63,0,1024,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,False,43263.36
+Asus,Notebook,14.0,4,Windows,1.65,64,0,0,0,AMD,Other,1.5,AMD,Radeon,Other,Other,1366,False,14811.3072
+Dell,Notebook,17.3,16,Windows,2.8,256,2048,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,74378.87999999999
+HP,Notebook,17.3,8,Windows,2.5,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,False,49443.84
+Dell,Notebook,15.6,8,Windows,2.36,0,1024,0,0,Intel,Core i5,2.5,AMD,Radeon,R7 M445,Other,1366,False,34045.3872
+Dell,Notebook,15.6,4,Windows,2.2,0,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,R5 M430,Standard Display,1920,False,23922.72
+Acer,Ultrabook,14.0,8,Windows,1.6,256,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,IPS Display,1920,False,47099.52
+Acer,Notebook,15.6,4,Windows,2.2,256,0,0,0,Intel,Core i3,2.7,Nvidia,GeForce,Other,Standard Display,1920,False,30476.16
+HP,Notebook,15.6,8,Windows,2.05,0,1024,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Other,1366,False,31861.44
+HP,Notebook,14.0,8,Windows,1.63,256,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,False,52640.64
+Lenovo,Notebook,15.6,4,No OS,1.9,0,1024,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,13445.7408
+Asus,Gaming,17.3,8,Windows,3.0,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,49976.64
+Lenovo,Notebook,15.6,4,No OS,2.2,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,920MX,Standard Display,1920,False,26586.72
+HP,Notebook,13.3,4,Windows,1.32,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,37242.72
+Acer,Notebook,17.3,4,Windows,3.0,0,1024,0,0,Intel,Core i3,2.7,Nvidia,GeForce,Other,IPS Display,1920,False,34898.4
+Lenovo,Notebook,14.0,8,Windows,1.75,256,0,0,0,Intel,Core i5,1.6,AMD,Radeon,Other,IPS Display,1920,False,59461.5456
+Lenovo,Gaming,15.6,8,No OS,2.4,256,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,Other,IPS Display,1920,False,46300.32
+Toshiba,Notebook,15.6,4,Windows,2.1,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,32074.56
+HP,Notebook,15.6,4,Windows,1.86,256,0,0,0,AMD,Other,2.5,AMD,Radeon,Other,Other,1366,False,19660.32
+Asus,Ultrabook,14.0,8,Windows,1.25,256,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,False,58554.72
+HP,Ultrabook,12.5,8,Windows,0.97,512,0,0,0,Intel,Other,1.2,Intel,HD,Graphics 515,IPS Display,3840,True,107305.92
+Asus,Notebook,15.6,4,Windows,2.0,0,1024,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Standard Display,1920,False,18328.32
+MSI,Gaming,17.3,16,Windows,2.9,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,108105.12
+Acer,Notebook,15.6,4,Windows,2.1,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,23816.16
+Dell,Gaming,15.6,16,Windows,2.56,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,66560.5728
+Dell,Gaming,15.6,8,Windows,2.62,0,0,0,1024,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,47898.72
+Lenovo,Notebook,15.6,4,Windows,1.9,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,26533.44
+MSI,Gaming,17.3,16,Windows,2.8,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,100699.2
+HP,Ultrabook,14.0,4,Windows,1.48,256,0,0,0,Intel,Core i5,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,57648.96
+HP,Notebook,15.6,6,Windows,1.91,256,0,0,0,Intel,Core i5,1.6,AMD,Radeon,520,Standard Display,1920,False,32980.32
+Lenovo,2 in 1 Convertible,14.0,4,Windows,1.74,256,0,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,IPS Display,1920,True,33513.119999999995
+Asus,2 in 1 Convertible,13.3,8,Windows,1.1,256,0,0,0,Intel,Core i5,1.6,Intel,HD,Graphics 620,Standard Display,1920,True,70063.2
+Dell,2 in 1 Convertible,15.6,8,Windows,1.56,256,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,True,55890.72
+Toshiba,Notebook,15.6,4,Windows,2.1,0,500,0,0,Intel,Core i3,2.2,Intel,HD,Graphics 520,Other,1366,False,23816.16
+Asus,Notebook,15.6,4,Windows,2.03,0,1024,0,0,AMD,Other,3.0,AMD,Radeon,Other,Other,1366,False,21471.84
+Acer,Notebook,17.3,4,Windows,3.0,256,0,0,0,Intel,Core i5,1.6,Nvidia,GeForce,MX150,IPS Display,1920,False,42890.4
+Dell,Notebook,15.6,8,Windows,2.13,256,0,0,0,Intel,Core i5,1.6,AMD,Radeon,520,Standard Display,1920,False,38787.84
+Lenovo,Gaming,15.6,16,Windows,2.5,256,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,IPS Display,1920,False,57489.12
+Acer,Notebook,15.6,4,Windows,2.1,0,1024,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,18541.44
+MSI,Gaming,15.6,16,Windows,2.4,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,95850.72
+Acer,Notebook,15.6,4,Windows,2.1,0,1024,0,0,Intel,Other,1.1,Intel,HD,Graphics 505,Other,1366,False,19367.8128
+Dell,Gaming,15.6,8,Windows,2.56,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,56502.9072
+Acer,Notebook,17.3,8,Windows,3.0,256,0,0,0,Intel,Core i5,1.6,Nvidia,GeForce,MX150,IPS Display,1920,False,45501.12
+HP,Notebook,13.3,4,Windows,1.49,0,500,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,False,40173.12
+Huawei,Ultrabook,13.0,8,Windows,1.05,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,2160,False,71874.72
+HP,Notebook,17.3,6,Windows,2.71,0,2048,0,0,Intel,Core i5,2.5,AMD,Radeon,520,IPS Display,1920,False,37242.72
+Lenovo,Notebook,15.6,4,No OS,2.2,0,500,0,0,AMD,Other,2.9,AMD,Radeon,Other,Other,1366,False,16463.52
+Toshiba,Notebook,15.6,4,Windows,2.0,0,500,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,26053.92
+HP,Notebook,17.3,8,Windows,2.5,256,0,0,0,Intel,Core i5,1.6,Nvidia,GeForce,930MX,Standard Display,1920,False,49177.44
+Dell,Notebook,15.6,8,Windows,2.3,0,1024,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,24455.52
+Acer,Notebook,15.6,4,Windows,2.1,128,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,23922.72
+MSI,Gaming,18.4,32,Windows,4.4,512,1024,0,0,Intel,Core i7,2.9,Nvidia,GTX,Other,Standard Display,1920,False,149130.72
+Lenovo,Notebook,15.6,8,Windows,1.9,128,1024,0,0,Intel,Core i5,2.5,AMD,Integrated,Other,Standard Display,1920,False,43316.64
+HP,2 in 1 Convertible,13.3,8,Windows,1.29,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,3840,True,79866.72
+Dell,Notebook,15.6,16,Linux,2.02,256,2048,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,55890.72
+Dell,Ultrabook,13.3,8,Windows,1.23,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,False,74538.72
+Lenovo,2 in 1 Convertible,13.9,16,Windows,1.4,512,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,IPS Display,3840,True,98514.72
+Toshiba,Notebook,15.6,8,Windows,2.0,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,42251.04
+Xiaomi,Notebook,15.6,8,No OS,1.95,256,0,0,0,Intel,Core i5,1.6,Nvidia,GeForce,MX150,IPS Display,1920,False,63882.72
+Dell,Notebook,17.3,16,Windows,2.77,512,0,0,0,Intel,Core i7,1.8,Nvidia,GeForce,Other,Standard Display,1920,True,82530.72
+Dell,Notebook,15.6,16,Windows,2.06,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Touchscreen Display,3840,True,127712.16
+Lenovo,Gaming,15.6,8,No OS,2.4,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,41505.12
+Acer,Ultrabook,13.3,8,Windows,1.12,256,0,0,0,Intel,Core i5,1.2,Intel,HD,Graphics 615,IPS Display,1920,False,52693.92
+Dell,Notebook,17.3,8,Windows,2.8,128,1024,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,57808.8
+Lenovo,2 in 1 Convertible,14.0,16,Windows,1.42,1024,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Touchscreen Display,2560,True,150462.72
+Vero,Notebook,14.0,4,Windows,1.3,0,0,32,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,IPS Display,1920,False,13852.8
+Xiaomi,Ultrabook,13.3,8,No OS,1.3,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,MX150,IPS Display,1920,False,53274.67199999999
+Lenovo,Notebook,17.3,8,No OS,2.8,256,0,0,0,Intel,Core i5,1.6,Nvidia,GeForce,MX150,Other,1600,False,37189.44
+Dell,2 in 1 Convertible,13.3,8,Windows,1.62,0,1024,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,IPS Display,1920,True,44701.92
+HP,Notebook,17.3,8,Windows,2.5,0,1024,0,0,Intel,Core i5,1.6,Nvidia,GeForce,930MX,IPS Display,1920,False,48697.92
+Razer,Gaming,17.3,32,Windows,3.49,1024,0,0,0,Intel,Core i7,2.9,Nvidia,GeForce,Other,Touchscreen Display,3840,True,324954.72
+HP,Notebook,13.3,8,Windows,1.49,512,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,False,51095.52
+HP,Gaming,17.3,16,Windows,3.35,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,73473.12
+HP,Notebook,17.3,8,Windows,2.5,256,0,0,0,Intel,Core i7,1.8,Nvidia,GeForce,930MX,Standard Display,1920,False,55677.6
+Dell,Gaming,15.6,16,Windows,2.65,512,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,3840,False,98301.6
+Lenovo,Notebook,15.6,4,Windows,2.1,128,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,26267.04
+Acer,Notebook,15.6,8,Windows,2.23,0,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Standard Display,1920,False,39533.76
+Lenovo,Gaming,15.6,16,Windows,3.2,512,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,93186.72
+Dell,Workstation,15.6,16,Windows,2.8,256,1024,0,0,Intel,Other,3.0,Nvidia,Quadro,Other,Standard Display,3840,False,162770.4
+Lenovo,Gaming,15.6,16,No OS,2.4,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,74485.44
+Dell,Notebook,15.6,6,Windows,2.3,0,1024,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Touchscreen Display,1366,True,23389.92
+Dell,Ultrabook,13.3,8,Windows,1.21,256,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,IPS Display,3840,True,103842.72
+Dell,Ultrabook,13.3,8,Windows,1.2,256,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,False,77202.72
+Lenovo,Notebook,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,31808.16
+Acer,Notebook,15.6,8,Linux,2.4,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,41505.12
+Asus,Gaming,17.3,16,Windows,2.9,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,74964.95999999999
+HP,Notebook,15.6,4,No OS,2.1,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,18594.72
+Lenovo,Notebook,15.6,8,No OS,2.2,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,29250.72
+Huawei,Ultrabook,13.0,8,Windows,1.05,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,2160,False,79866.72
+Dell,Ultrabook,13.3,8,Windows,1.4,256,0,0,0,Intel,Core i7,1.8,AMD,Radeon,530,IPS Display,1920,False,49650.5664
+Lenovo,Notebook,17.3,8,No OS,2.8,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,Other,Other,1600,False,31381.92
+HP,Notebook,14.0,8,Windows,1.63,256,0,0,0,Intel,Core i7,1.8,Nvidia,GeForce,930MX,Standard Display,1920,False,54931.68
+Dell,Ultrabook,14.0,8,Windows,1.6,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,False,61218.72
+Dell,2 in 1 Convertible,13.3,16,Windows,1.62,512,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,True,68145.12
+Dell,Notebook,15.6,8,Linux,2.2,256,0,0,0,Intel,Core i5,1.6,AMD,Radeon,520,Standard Display,1920,False,36089.208
+Lenovo,2 in 1 Convertible,14.0,8,Windows,1.74,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,False,47898.72
+Toshiba,Ultrabook,13.3,8,Windows,1.2,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,72620.64
+HP,Notebook,15.6,8,Windows,2.1,0,1024,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,False,42304.32
+Dell,Gaming,17.3,16,Windows,4.42,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,130873.7952
+Acer,Notebook,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Standard Display,1920,False,44328.96
+Dell,Notebook,15.6,16,Windows,2.3,0,1024,0,0,Intel,Core i7,2.7,AMD,Radeon,R7 M445,Standard Display,1920,True,45768.0528
+Asus,Notebook,15.6,8,Windows,2.0,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,920MX,Standard Display,1920,False,40972.32
+Asus,Notebook,17.3,8,Windows,2.69,256,500,0,0,Intel,Core i5,2.5,Nvidia,GeForce,Other,Standard Display,1920,False,47472.48
+HP,Notebook,15.6,8,Windows,1.9,0,1024,0,0,Intel,Core i7,2.7,AMD,FirePro,Other,Standard Display,1920,False,67612.31999999999
+Asus,Notebook,15.6,4,Windows,2.37,0,1024,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,21258.1872
+HP,Notebook,15.6,4,Windows,2.1,0,500,0,0,AMD,Other,1.5,AMD,Radeon,Other,Other,1366,False,17582.399999999998
+Lenovo,Gaming,15.6,16,Windows,3.2,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,79866.72
+Dell,Notebook,14.0,8,Windows,1.6,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,45767.52
+Acer,2 in 1 Convertible,13.3,8,Windows,1.6,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,IPS Display,1920,True,36709.92
+Dell,Notebook,15.6,16,Linux,2.36,256,0,0,0,Intel,Core i7,2.7,AMD,Radeon,R7 M445,Standard Display,1920,False,47898.72
+Acer,Notebook,15.6,4,Linux,2.1,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,20779.2
+Asus,Notebook,15.6,4,Windows,2.2,128,1024,0,0,AMD,Other,2.5,AMD,Radeon,R5 M430,Standard Display,1920,False,30636.0
+Asus,Gaming,17.3,32,Windows,4.7,512,1024,0,0,Intel,Core i7,2.9,Nvidia,GeForce,Other,Standard Display,1920,False,207259.2
+Acer,Gaming,15.6,8,Windows,2.5,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,45074.88
+Lenovo,Notebook,15.6,8,Windows,2.2,128,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,31381.92
+Asus,Notebook,17.3,8,Windows,2.1,128,1024,0,0,Intel,Core i7,1.8,Nvidia,GeForce,Other,Standard Display,1920,False,61005.6
+Asus,Notebook,17.3,8,No OS,2.69,128,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,Other,Standard Display,1920,False,47365.92
+Dell,Gaming,15.6,8,Windows,2.56,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,46833.12
+Lenovo,2 in 1 Convertible,13.9,8,Windows,1.38,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,True,57489.12
+Dell,Notebook,15.6,8,Windows,2.2,128,2048,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,52480.8
+HP,Notebook,15.6,8,Windows,2.04,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Touchscreen Display,1366,True,29783.52
+Asus,Gaming,17.3,16,Windows,3.6,256,0,0,0,Intel,Core i7,2.9,Nvidia,GeForce,Other,Standard Display,1920,False,159786.72
+HP,Notebook,13.3,4,Windows,1.49,0,500,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,False,35964.0
+Apple,Ultrabook,13.3,8,macOS,1.37,512,0,0,0,Intel,Other,3.1,Intel,Iris,Other,IPS Display,2560,False,108691.2
+Dell,2 in 1 Convertible,15.6,8,Windows,2.08,0,1024,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,IPS Display,1920,True,43636.32
+Asus,Gaming,17.3,16,Windows,4.3,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 980M,Standard Display,1920,False,95850.72
+Asus,Notebook,15.6,4,Windows,1.68,0,1024,0,0,AMD,Other,3.0,AMD,Radeon,Other,Other,1366,False,24988.32
+Lenovo,2 in 1 Convertible,13.9,8,Windows,1.37,512,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,IPS Display,1920,True,98514.72
+Acer,Notebook,17.3,4,Windows,3.0,256,0,0,0,Intel,Core i3,2.7,Nvidia,GeForce,Other,IPS Display,1920,False,37402.56
+Dell,Ultrabook,13.3,8,Windows,1.41,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,False,50562.72
+HP,Notebook,15.6,8,Windows,1.91,128,0,0,0,AMD,Other,2.5,AMD,Radeon,Other,Other,1366,False,23757.552
+HP,Notebook,17.3,16,Windows,2.9,0,1024,0,0,Intel,Core i7,1.8,Nvidia,GeForce,MX150,IPS Display,1920,False,56423.52
+MSI,Gaming,17.3,16,Windows,4.14,512,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,133146.72
+Lenovo,2 in 1 Convertible,15.6,8,Windows,2.0,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,Other,IPS Display,1920,True,90522.72
+Dell,Notebook,17.3,8,Windows,2.8,128,1024,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,60845.76
+Lenovo,Notebook,15.6,4,No OS,2.2,256,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,23656.32
+HP,Notebook,15.6,4,Windows,2.1,0,500,0,0,Intel,Core i5,1.6,Intel,HD,Graphics 620,IPS Display,1920,False,38468.16
+Dell,Notebook,15.6,4,Windows,2.18,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,35004.96
+Dell,Notebook,15.6,8,Windows,2.24,0,1024,0,0,Intel,Core i5,2.5,AMD,Radeon,R5 M430,Standard Display,1920,False,30103.2
+Dell,2 in 1 Convertible,15.6,8,Windows,2.67,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,True,42570.72
+Asus,2 in 1 Convertible,13.3,8,Windows,1.1,512,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,True,79866.72
+Lenovo,Notebook,15.6,4,No OS,2.2,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,24881.76
+HP,Notebook,17.3,8,Windows,2.5,0,1024,0,0,Intel,Core i7,1.8,Nvidia,GeForce,930MX,Standard Display,1920,False,54239.04
+Lenovo,Notebook,15.6,8,Windows,2.05,256,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,False,46886.4
+Apple,Ultrabook,13.3,8,macOS,1.37,512,0,0,0,Intel,Other,2.9,Intel,Iris,Other,IPS Display,2560,False,104370.192
+Asus,Gaming,17.3,16,Windows,3.2,256,1024,0,0,AMD,Other,3.0,AMD,Radeon,Other,Standard Display,1920,False,82530.72
+Dell,Notebook,15.6,8,Linux,2.14,256,0,0,0,Intel,Core i7,1.8,AMD,Radeon,520,Standard Display,1920,False,39164.5296
+Lenovo,2 in 1 Convertible,14.0,16,Windows,1.36,512,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,Touchscreen Display,2560,True,133146.72
+Toshiba,Notebook,15.6,8,Windows,2.2,0,500,0,0,Intel,Core i7,2.5,Nvidia,GeForce,Other,Other,1366,False,43263.36
+Dell,Notebook,15.6,12,Windows,2.3,0,1024,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Other,1366,False,37992.3696
+Dell,Notebook,17.3,8,Linux,2.8,128,1024,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,58554.72
+Acer,Notebook,15.6,8,Windows,2.2,0,1024,0,0,Intel,Core i7,1.8,Nvidia,GeForce,Other,IPS Display,1920,False,39693.6
+Lenovo,Notebook,17.3,4,Windows,2.8,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1600,False,26053.92
+Lenovo,Notebook,17.3,8,No OS,2.8,0,2048,0,0,Intel,Core i7,1.8,Nvidia,GeForce,MX150,Standard Display,1920,False,45234.72
+Lenovo,Notebook,17.3,6,Windows,2.8,128,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Other,1600,False,45767.52
+Dell,Notebook,15.6,4,Linux,2.25,0,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,R5 M430,Standard Display,1920,False,22803.84
+Lenovo,Gaming,15.6,8,Windows,2.5,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,44169.12
+Lenovo,Notebook,15.6,6,Windows,2.2,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,30849.12
+Acer,Notebook,15.6,8,Windows,3.0,256,0,0,0,Intel,Core i7,1.8,Nvidia,GeForce,MX150,IPS Display,1920,False,50669.28
+Acer,Notebook,15.6,12,Windows,2.15,0,1024,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,True,35111.52
+Lenovo,Notebook,15.6,8,Windows,1.95,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Other,IPS Display,1920,False,58448.16
+Asus,Ultrabook,15.6,8,Windows,1.7,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,940MX,Standard Display,1920,False,52054.56
+Lenovo,Gaming,15.6,16,Windows,2.5,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,IPS Display,1920,False,62817.12
+Lenovo,Notebook,15.6,8,No OS,2.2,0,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Standard Display,1920,False,35112.0528
+Acer,Notebook,15.6,2,Chrome OS,2.19,16,0,0,0,Intel,Celeron Dual Core,1.5,Intel,HD,Graphics,Other,1366,False,10602.72
+Asus,Gaming,17.3,8,Windows,3.0,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,63243.36
+HP,Notebook,17.3,8,Windows,2.54,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1600,False,26053.92
+Dell,Notebook,15.6,8,Windows,2.0,256,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,97449.12
+Lenovo,Notebook,15.6,8,Windows,2.05,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,False,39373.92
+Lenovo,Gaming,15.6,8,Windows,3.2,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,69210.72
+Acer,Notebook,15.6,8,Linux,2.5,256,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,52161.12
+Dell,Workstation,17.3,16,Windows,3.42,256,0,0,0,Intel,Core i7,2.9,Nvidia,Quadro,Other,Standard Display,1920,False,153705.3408
+Lenovo,Notebook,15.6,6,Windows,2.4,0,1024,0,0,AMD,Other,2.4,AMD,Radeon,Other,Standard Display,1920,False,26586.72
+Asus,Ultrabook,15.6,16,Windows,1.63,512,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Standard Display,1920,False,78215.04
+Asus,Notebook,14.0,4,Windows,1.3,128,0,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,27119.52
+Asus,Gaming,17.3,16,Windows,2.9,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,113060.16
+Lenovo,Notebook,17.3,6,Windows,2.8,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,Other,Other,1600,False,34578.72
+Lenovo,Notebook,15.6,8,No OS,2.2,0,2048,0,0,Intel,Core i5,2.5,Nvidia,GeForce,940MX,Other,1366,False,29250.72
+Asus,Gaming,15.6,8,Windows,2.5,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,67399.2
+Lenovo,Notebook,15.6,4,No OS,2.2,0,1024,0,0,Intel,Other,1.1,Intel,HD,Graphics 505,Other,1366,False,19180.2672
+HP,2 in 1 Convertible,13.3,16,Windows,1.28,256,0,0,0,Intel,Core i7,2.8,Intel,HD,Graphics 620,Standard Display,1920,True,105228.0
+Toshiba,Notebook,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i7,2.5,Nvidia,GeForce,Other,IPS Display,1920,False,55571.04
+Lenovo,Notebook,15.6,8,Windows,2.3,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,940MX,Standard Display,1920,False,43636.32
+HP,Notebook,15.6,4,Windows,1.86,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,24988.32
+Lenovo,Notebook,13.3,8,Windows,1.1,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,53226.72
+Dell,Ultrabook,13.3,16,Windows,1.21,1024,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,IPS Display,3840,True,133146.72
+MSI,Gaming,15.6,16,Windows,2.8,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,IPS Display,1920,False,111834.72
+Acer,Notebook,15.6,8,Windows,2.23,256,0,0,0,AMD,Other,2.2,AMD,Radeon,R5,Standard Display,1920,False,24988.32
+Asus,2 in 1 Convertible,11.6,2,Windows,1.1,0,0,32,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Touchscreen Display,1366,True,14652.0
+Dell,Notebook,15.6,8,Windows,2.33,128,1024,0,0,Intel,Core i5,1.6,AMD,Radeon,530,Standard Display,1920,False,44968.32
+HP,2 in 1 Convertible,13.3,16,Windows,1.29,1024,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,IPS Display,3840,True,130482.72
+Lenovo,Notebook,13.3,4,Chrome OS,1.45,0,0,16,0,Intel,Celeron Dual Core,1.6,Intel,HD,Other,Other,1366,False,24503.472
+HP,Notebook,14.0,8,Windows,1.95,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,52214.4
+Acer,Notebook,11.6,4,Windows,1.4,0,0,128,0,Intel,Other,1.6,Intel,HD,Other,Other,1366,False,25840.8
+HP,Notebook,14.0,8,Windows,1.48,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,68837.76
+Lenovo,Notebook,17.3,4,Windows,2.79,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,920MX,Other,1600,False,31381.92
+Asus,Notebook,14.0,8,Windows,2.0,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,58288.32
+HP,Notebook,15.6,8,Windows,2.1,0,1024,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,IPS Display,1366,False,48058.56
+Acer,Notebook,15.6,8,Windows,2.2,256,0,0,0,AMD,Other,2.7,AMD,Radeon,Other,Other,1366,False,35111.52
+Lenovo,Notebook,14.0,4,Windows,1.44,0,0,32,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,15557.76
+Acer,Notebook,15.6,6,Windows,2.23,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,29250.72
+Asus,Ultrabook,15.6,8,Windows,1.7,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Standard Display,1920,False,55938.672
+HP,Ultrabook,12.5,8,Windows,1.26,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,71128.8
+Dell,Notebook,15.6,32,Windows,2.06,1024,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Touchscreen Display,3840,True,140605.91999999998
+MSI,Gaming,17.3,8,Windows,2.7,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,63882.72
+Toshiba,Notebook,15.6,8,Windows,2.0,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,50243.04
+Asus,Notebook,14.0,8,Windows,2.0,256,1024,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,71075.52
+Lenovo,Notebook,15.6,4,Windows,1.85,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,23922.72
+Asus,Gaming,15.6,8,Windows,2.5,256,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,53226.72
+HP,Notebook,14.0,8,Windows,1.48,256,0,0,0,Intel,Core i5,2.6,Intel,HD,Graphics 620,Standard Display,1920,False,67559.04
+Dell,Ultrabook,15.6,8,Windows,1.9,128,1024,0,0,Intel,Core i5,1.6,Nvidia,GeForce,940MX,IPS Display,1920,False,55890.72
+HP,Notebook,15.6,8,Windows,1.84,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,60952.32
+Asus,Notebook,15.6,4,Linux,2.0,0,1024,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,14651.4672
+Dell,Notebook,15.6,8,Windows,2.0,256,0,0,0,Intel,Core i5,1.6,Nvidia,GeForce,940MX,Standard Display,1920,False,60885.72
+Dell,Notebook,15.6,4,Linux,2.2,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics,Other,1366,False,14646.672
+Lenovo,Notebook,15.6,12,Windows,2.2,0,2048,0,0,AMD,Other,3.6,AMD,Radeon,530,Standard Display,1920,False,47898.72
+HP,Notebook,15.6,8,Windows,2.1,0,1024,0,0,Intel,Core i3,2.4,Nvidia,GeForce,930MX,IPS Display,1920,False,38148.48
+Lenovo,2 in 1 Convertible,13.9,16,Windows,1.4,512,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,IPS Display,3840,True,111834.72
+Dell,Ultrabook,13.3,8,Windows,1.2,256,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,False,84129.12
+Lenovo,Gaming,15.6,16,Windows,2.4,256,2048,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,IPS Display,1920,False,60153.12
+HP,Notebook,14.0,2,Windows,1.44,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,14865.12
+Dell,Ultrabook,15.6,16,Windows,1.88,256,0,0,0,Intel,Core i7,1.9,Intel,UHD,Graphics 620,Standard Display,1920,False,85672.1088
+Asus,2 in 1 Convertible,11.6,4,Windows,1.5,0,0,32,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Touchscreen Display,1366,True,19980.0
+Dell,Ultrabook,15.6,8,Windows,1.9,0,1024,0,0,Intel,Core i5,1.6,AMD,Radeon,530,Standard Display,1920,False,35324.64
+Dell,Notebook,15.6,16,Windows,2.06,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Touchscreen Display,3840,True,108020.9376
+HP,Notebook,15.6,8,Windows,1.84,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,69477.12
+MSI,Gaming,17.3,8,Windows,2.7,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,75071.52
+HP,Workstation,15.6,8,Windows,2.6,256,0,0,0,Intel,Core i7,2.8,Nvidia,Quadro,Other,Standard Display,1920,False,92615.0256
+Toshiba,Notebook,15.6,16,Windows,2.4,512,0,0,0,Intel,Core i7,2.5,Nvidia,GeForce,Other,IPS Display,1920,False,74751.84
+Dell,Notebook,15.6,8,Windows,2.02,128,2048,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,51729.55199999999
+Lenovo,Notebook,15.6,4,No OS,2.2,0,1024,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,17155.627200000003
+Dell,Gaming,15.6,8,Windows,2.65,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,53226.72
+Dell,Notebook,15.6,8,Windows,2.36,0,2048,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Touchscreen Display,1366,True,29696.6736
+Dell,Notebook,14.0,8,Windows,1.36,256,0,0,0,Intel,Core i5,2.6,Intel,HD,Graphics 620,Standard Display,1920,False,76030.56
+HP,Notebook,15.6,4,Windows,1.86,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,23389.92
+Asus,Notebook,14.0,8,Windows,2.0,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,50349.6
+Lenovo,Notebook,17.3,6,Windows,2.8,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,Other,Other,1600,False,38308.32
+HP,Notebook,15.6,8,Windows,1.86,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,34045.92
+Lenovo,Notebook,15.6,8,No OS,2.2,256,0,0,0,Intel,Core i3,2.0,Nvidia,GeForce,920MX,Other,1366,False,26586.72
+HP,Notebook,15.6,8,Windows,2.04,0,2048,0,0,Intel,Other,1.6,Intel,HD,Other,Other,1366,False,20725.92
+Dell,Notebook,17.3,8,Windows,2.8,128,1024,0,0,Intel,Core i5,1.6,AMD,Radeon,530,Standard Display,1920,False,57808.8
+Lenovo,Gaming,15.6,8,No OS,2.4,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,43103.52
+Dell,Notebook,15.6,8,Windows,2.33,256,0,0,0,Intel,Core i7,2.7,AMD,Radeon,R7 M445,Standard Display,1920,False,47898.72
+HP,Ultrabook,14.0,8,Windows,1.36,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,93240.0
+Asus,2 in 1 Convertible,15.6,12,Windows,2.26,512,2048,0,0,Intel,Core i7,2.7,Nvidia,GeForce,Other,Standard Display,1920,True,58554.72
+Acer,Notebook,15.6,4,Windows,2.1,128,0,0,0,AMD,Other,3.0,AMD,Radeon,R5,Other,1366,False,22697.28
+Asus,Gaming,17.3,16,Windows,3.25,256,1024,0,0,AMD,Other,3.0,AMD,Radeon,Other,IPS Display,1920,False,117162.72
+Lenovo,Notebook,17.3,4,Windows,2.6,128,0,0,0,AMD,Other,2.2,AMD,Radeon,R5,Other,1600,False,26053.92
+Dell,2 in 1 Convertible,13.3,8,Windows,1.62,256,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,True,46300.85279999999
+HP,Notebook,15.6,4,Windows,1.91,256,0,0,0,AMD,Other,3.0,AMD,Radeon,R5,Standard Display,1920,False,26053.3872
+Lenovo,Netbook,11.6,4,Windows,1.59,128,0,0,0,Intel,Other,1.1,Intel,HD,Graphics 500,IPS Display,1366,False,29463.84
+Dell,Notebook,15.6,4,Windows,1.8,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,16463.52
+Asus,Notebook,14.0,4,Windows,1.5,0,0,32,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,15238.08
+Acer,Notebook,15.6,8,Linux,2.4,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,45074.88
+HP,Gaming,17.3,8,Windows,3.35,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,63456.48
+Lenovo,Notebook,15.6,4,No OS,1.85,128,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,21498.48
+Asus,Gaming,15.6,8,Windows,2.3,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,88178.4
+Lenovo,Notebook,14.0,8,Windows,1.5,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,940MX,IPS Display,1920,False,58554.72
+Asus,Ultrabook,13.3,16,Windows,1.1,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,True,93181.392
+Lenovo,Ultrabook,14.0,8,Windows,1.13,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,2560,False,121584.96
+Lenovo,Notebook,13.3,4,Windows,1.5,128,0,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,IPS Display,1920,False,29250.72
+Dell,Workstation,15.6,8,Windows,2.23,0,500,0,0,Intel,Core i5,2.6,AMD,FirePro,Other,Standard Display,1920,False,72940.31999999999
+Dell,Workstation,15.6,8,Windows,2.0,256,0,0,0,Intel,Core i7,2.7,Nvidia,Quadro,Other,IPS Display,1920,False,113752.8
+Lenovo,2 in 1 Convertible,14.0,16,Windows,1.42,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Touchscreen Display,2560,True,133679.52
+Asus,Gaming,17.3,8,Windows,3.0,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,55357.92
+Asus,Gaming,17.3,16,Windows,3.0,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,84768.48
+Acer,Notebook,15.6,12,Windows,2.2,0,1024,0,0,Intel,Core i5,1.6,Nvidia,GeForce,Other,IPS Display,1366,False,36975.7872
+MSI,Gaming,17.3,8,Windows,2.7,256,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,71874.72
+Dell,Notebook,15.6,8,Linux,2.33,256,0,0,0,Intel,Core i7,2.7,AMD,Radeon,R7 M445,Standard Display,1920,False,41498.1936
+HP,Ultrabook,15.6,4,Windows,1.91,256,0,0,0,AMD,Other,3.0,AMD,Radeon,520,Standard Display,1920,False,26586.72
+Lenovo,Notebook,15.6,8,Windows,2.1,256,0,0,0,Intel,Core i7,1.8,AMD,Radeon,Other,IPS Display,1920,False,65510.9568
+Lenovo,Notebook,14.0,8,Windows,1.9,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,49976.64
+Dell,Workstation,15.6,8,Windows,1.78,256,0,0,0,Intel,Core i7,2.8,Nvidia,Quadro,Other,Touchscreen Display,3840,True,144495.36
+Lenovo,Ultrabook,14.0,16,Windows,1.13,1024,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,2560,False,139860.0
+Lenovo,Notebook,15.6,4,Windows,2.2,0,1024,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,16303.68
+Asus,Gaming,17.3,16,Windows,2.9,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,81465.12
+Lenovo,Notebook,15.6,8,Windows,2.1,256,1024,0,0,Intel,Core i5,1.6,AMD,Radeon,Other,IPS Display,1920,False,60978.96
+Acer,Notebook,15.6,8,Linux,2.5,256,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,46833.12
+MSI,Gaming,17.3,16,Windows,2.8,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,119826.72
+Asus,Ultrabook,14.0,8,Windows,1.1,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,99793.44
+Toshiba,Ultrabook,13.3,16,Windows,1.2,512,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,93080.16
+Dell,Ultrabook,14.0,8,Windows,1.36,512,0,0,0,Intel,Core i7,2.8,Intel,HD,Graphics,Standard Display,1920,False,89510.4
+Lenovo,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,21791.52
+Lenovo,Notebook,11.6,2,Windows,1.15,0,0,32,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,16221.096
+Lenovo,Workstation,15.6,8,Windows,2.67,512,0,0,0,Intel,Core i7,2.8,Nvidia,Quadro,Other,Standard Display,1920,False,102564.0
+Lenovo,Ultrabook,14.0,8,Windows,1.7,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,Other,IPS Display,2560,False,103523.04
+HP,Notebook,15.6,4,Windows,2.1,0,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,520,Standard Display,1920,False,24988.32
+Acer,2 in 1 Convertible,13.3,8,Windows,1.6,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,1920,True,42038.4528
+Asus,2 in 1 Convertible,13.3,8,Windows,1.27,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,True,49443.84
+Dell,Notebook,15.6,4,Linux,2.3,256,0,0,0,Intel,Core i5,2.5,AMD,Radeon,R5 M430,Standard Display,1920,False,31909.392
+Dell,Notebook,13.3,4,Windows,1.65,128,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,36709.92
+HP,Ultrabook,14.0,8,Windows,1.43,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,79920.0
+Dell,Notebook,15.6,8,Windows,2.14,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,28768.536
+Lenovo,Ultrabook,14.0,8,Windows,1.75,256,0,0,0,Intel,Core i7,1.8,AMD,Radeon,Other,IPS Display,1920,False,64755.44640000001
+Lenovo,2 in 1 Convertible,15.6,16,Windows,2.0,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,IPS Display,3840,True,101178.72
+Chuwi,Notebook,12.3,6,Windows,1.4,0,0,64,0,Intel,Other,1.1,Intel,HD,Graphics 500,IPS Display,2736,False,23922.72
+HP,Notebook,15.6,8,Windows,2.31,256,0,0,0,Intel,Core i7,2.9,Intel,HD,Other,Standard Display,1920,False,76030.56
+Asus,Notebook,15.6,8,Linux,2.3,0,1024,0,0,Intel,Core i3,2.4,Nvidia,GeForce,940MX,Standard Display,1920,False,31808.16
+Dell,Gaming,17.3,16,Windows,4.42,256,1024,0,0,Intel,Core i7,2.9,Nvidia,GeForce,GTX 1070,IPS Display,2560,False,149130.72
+Dell,Gaming,15.6,8,Windows,2.62,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,IPS Display,1920,False,61751.52
+Dell,Notebook,15.6,8,Windows,2.02,256,2048,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,60867.072
+Dell,Ultrabook,14.0,8,Linux,1.6,256,0,0,0,Intel,Core i7,2.8,Intel,HD,Graphics 620,Standard Display,1920,False,58554.72
+HP,Gaming,17.3,12,Windows,3.35,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,106506.72
+Mediacom,2 in 1 Convertible,11.6,4,Windows,1.16,32,0,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,IPS Display,1920,True,15930.72
+Samsung,Netbook,11.6,4,Chrome OS,1.15,0,0,16,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,14332.32
+Lenovo,Notebook,13.3,8,Windows,1.4,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,53812.8
+Lenovo,Notebook,14.0,4,Windows,1.7,128,0,0,0,Intel,Core i3,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,31914.72
+Lenovo,Workstation,15.6,16,Windows,2.3,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,940MX,IPS Display,3840,False,130269.6
+Lenovo,Notebook,15.6,16,Windows,2.5,512,0,0,0,Intel,Core i7,2.9,Nvidia,Quadro,Other,Standard Display,1920,False,130482.72
+Asus,Gaming,17.3,8,Windows,3.2,256,1024,0,0,AMD,Other,3.2,AMD,Radeon,Other,Standard Display,1920,False,90309.6
+HP,Notebook,15.6,4,Windows,2.1,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,18488.16
+Google,Ultrabook,12.3,16,Chrome OS,1.1,512,0,0,0,Intel,Core i7,1.3,Intel,HD,Graphics 615,Touchscreen Display,2400,True,117162.72
+Lenovo,Ultrabook,14.0,24,Windows,1.32,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Other,2560,False,126912.96
+Asus,Notebook,15.6,4,Linux,2.0,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,29783.52
+Lenovo,Notebook,17.3,8,Windows,2.8,0,1024,0,0,AMD,Other,2.5,AMD,Radeon,Other,Other,1600,False,27652.32
+Dell,Notebook,15.6,4,Windows,2.2,256,0,0,0,Intel,Core i5,1.6,AMD,Radeon,530,Standard Display,1920,False,39906.72
+Lenovo,Ultrabook,12.5,8,Windows,1.36,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,76137.12
+Lenovo,Notebook,15.6,4,Windows,2.2,128,0,0,0,Intel,Other,1.1,Intel,HD,Graphics 505,Standard Display,1920,False,18594.72
+HP,Gaming,15.6,8,Windows,2.2,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,58554.72
+Dell,Notebook,14.0,8,Windows,1.64,256,0,0,0,Intel,Core i5,2.8,Nvidia,GeForce,930MX,Standard Display,1920,False,62817.12
+Acer,Notebook,15.6,4,Linux,2.4,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,23539.104
+Dell,Workstation,15.6,8,Windows,2.23,0,1024,64,0,Intel,Other,3.0,Nvidia,Quadro,Other,Standard Display,1920,False,106187.04
+MSI,Gaming,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,54757.9872
+Microsoft,Ultrabook,13.5,16,Windows,1.25,512,0,0,0,Intel,Core i7,2.5,Intel,Iris,Other,Touchscreen Display,2256,True,137941.91999999998
+HP,Notebook,15.6,8,Windows,1.91,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,31381.92
+Dell,Workstation,15.6,16,Windows,2.17,256,0,0,0,Intel,Core i7,2.7,Nvidia,Quadro,Other,IPS Display,1920,False,105228.0
+HP,Workstation,15.6,8,Windows,2.31,512,0,0,0,Intel,Core i7,2.9,Intel,HD,Graphics 620,IPS Display,1920,False,81731.52
+Lenovo,Notebook,14.0,8,Windows,1.65,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,71661.59999999999
+Dell,Notebook,15.6,8,Windows,2.36,128,1024,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,52161.12
+Dell,2 in 1 Convertible,11.6,4,Windows,1.47,0,500,0,0,Intel,Other,1.6,Intel,HD,Other,Touchscreen Display,1366,True,25521.12
+Dell,Notebook,17.3,8,Windows,4.42,0,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,109010.88
+Microsoft,Ultrabook,13.5,4,Windows,1.252,128,0,0,0,Intel,Other,2.2,Intel,HD,Graphics 615,Touchscreen Display,2256,True,52693.92
+Microsoft,Ultrabook,13.5,8,Windows,1.25,256,0,0,0,Intel,Core i7,2.5,Intel,Iris,Other,Touchscreen Display,2256,True,95850.72
+HP,Notebook,17.3,8,Windows,2.5,256,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1600,False,34093.872
+Acer,Notebook,15.6,4,Windows,2.23,0,1024,0,0,Intel,Core i3,2.0,Nvidia,GeForce,940MX,Standard Display,1920,False,28984.32
+Acer,Netbook,11.6,4,Windows,1.4,128,0,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,23176.8
+Asus,Notebook,15.6,8,Windows,2.37,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,39906.72
+Lenovo,Notebook,14.0,8,No OS,1.5,512,0,0,0,Intel,Core i7,2.7,AMD,Radeon,Other,IPS Display,1920,False,42570.72
+Lenovo,Notebook,15.6,8,Windows,2.67,256,0,0,0,Intel,Core i7,2.9,Nvidia,Quadro,Other,Standard Display,1920,False,111355.2
+Asus,Notebook,15.6,4,Windows,2.0,0,500,0,0,Intel,Other,1.1,Intel,HD,Graphics 500,Other,1366,False,16197.12
+Acer,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Core i3,2.0,Nvidia,GeForce,Other,Other,1366,False,24988.32
+Dell,Notebook,15.6,8,Windows,2.02,0,2048,0,0,Intel,Core i5,1.6,AMD,Radeon,530,Standard Display,1920,False,40439.52
+HP,Gaming,17.3,12,Windows,3.78,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,90522.72
+Lenovo,Ultrabook,14.0,12,Windows,1.4,256,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,IPS Display,2560,False,98994.24
+HP,2 in 1 Convertible,13.3,8,Windows,1.29,512,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,IPS Display,3840,True,106506.72
+HP,Notebook,15.6,8,Windows,1.9,0,500,0,0,Intel,Core i5,2.5,AMD,FirePro,Other,Standard Display,1920,False,61485.12
+Google,Ultrabook,12.3,8,Chrome OS,1.1,128,0,0,0,Intel,Core i5,1.2,Intel,HD,Graphics 615,Touchscreen Display,2400,True,67932.0
+Dell,Ultrabook,13.3,8,Windows,1.42,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,True,98133.768
+Asus,Notebook,15.6,12,Windows,2.06,128,1024,0,0,Intel,Core i7,2.6,Intel,HD,Other,IPS Display,3840,False,69210.72
+Dell,Notebook,14.0,8,Windows,1.79,128,0,0,0,Intel,Core i3,2.3,Intel,HD,Graphics 520,Other,1366,False,39427.2
+Dell,Workstation,15.6,8,Windows,1.78,256,0,0,0,Intel,Core i7,2.8,Nvidia,Quadro,Other,Standard Display,1920,False,128298.24
+Lenovo,Notebook,14.0,8,Windows,1.7,180,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,72673.92
+Dell,Notebook,15.6,8,Windows,2.2,0,1024,0,0,Intel,Core i5,1.6,AMD,Radeon,520,Standard Display,1920,False,35964.0
+Toshiba,Notebook,13.3,8,Windows,1.05,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,89084.16
+Dell,Notebook,15.6,8,Windows,2.16,512,0,0,0,Intel,Core i7,1.8,Nvidia,GeForce,940MX,IPS Display,1920,False,67239.36
+Dell,Notebook,15.6,4,Windows,2.18,0,1024,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,31254.048
+HP,Notebook,13.3,4,Windows,1.49,128,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,False,38681.28
+Chuwi,Notebook,15.6,4,Windows,1.89,0,0,64,0,Intel,Other,1.44,Intel,HD,Graphics,Standard Display,1920,False,13261.392000000002
+Lenovo,Notebook,15.6,4,Windows,2.3,128,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,30103.2
+Lenovo,Notebook,14.0,8,Windows,1.75,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,False,55890.72
+Dell,Workstation,15.6,16,Windows,2.17,512,0,0,0,Intel,Core i7,2.7,Nvidia,Quadro,Other,IPS Display,1920,False,124568.64
+Dell,Notebook,15.6,16,Windows,2.06,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,101178.72
+Lenovo,Ultrabook,12.5,16,Windows,1.36,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,95797.44
+Asus,Ultrabook,12.5,16,Windows,0.91,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,103896.0
+Lenovo,Notebook,15.6,8,Windows,2.3,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,940MX,IPS Display,1920,False,53918.82719999999
+Toshiba,Ultrabook,13.3,32,Windows,1.05,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,True,149130.72
+Asus,Gaming,15.6,8,Windows,1.99,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,71928.0
+Acer,Notebook,15.6,8,Windows,2.2,0,1024,0,0,AMD,Other,2.5,AMD,Radeon,Other,Other,1366,False,30849.12
+Asus,Gaming,17.3,24,Windows,4.33,256,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,Other,IPS Display,1920,True,67612.31999999999
+Lenovo,Ultrabook,12.5,8,Windows,1.3,180,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,IPS Display,1366,False,58554.72
+Lenovo,Notebook,15.6,8,Windows,2.17,256,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,False,47893.39199999999
+HP,Notebook,14.0,8,Windows,1.48,1024,0,0,0,Intel,Core i7,2.8,Intel,HD,Graphics 620,Standard Display,1920,False,93186.72
+Lenovo,Notebook,13.3,8,Windows,1.4,256,0,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,IPS Display,1920,False,50562.72
+Lenovo,Notebook,15.6,8,Windows,2.3,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,48538.08
+Asus,Netbook,11.6,4,Windows,1.2,0,0,64,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,18115.2
+HP,Notebook,15.6,8,Windows,1.91,256,0,0,0,Intel,Core i5,2.5,AMD,Radeon,520,Other,1366,False,32979.7872
+Lenovo,2 in 1 Convertible,13.9,8,Windows,1.4,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,True,85194.72
+Lenovo,Notebook,14.0,4,Windows,2.1,0,500,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,15930.72
+Lenovo,Netbook,11.6,4,Chrome OS,1.25,16,0,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,14119.2
+Lenovo,Notebook,13.3,8,Windows,1.44,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,50562.72
+Asus,Notebook,15.6,8,Windows,2.0,256,1024,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,65214.72
+Acer,Notebook,15.6,4,Windows,2.2,0,1024,0,0,Intel,Core i5,1.6,Nvidia,GeForce,MX150,IPS Display,1920,False,32660.64
+HP,Ultrabook,13.3,8,Windows,1.34,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,70489.44
+Lenovo,Gaming,15.6,8,No OS,2.4,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,61218.72
+Dell,Ultrabook,13.3,8,Windows,1.29,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,True,47898.72
+Acer,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Standard Display,1920,False,34045.92
+Dell,Notebook,15.6,8,Windows,2.18,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,44542.08
+Dell,Notebook,15.6,16,Windows,2.2,256,2048,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,64961.10719999999
+Xiaomi,Notebook,15.6,16,No OS,1.95,256,0,0,0,Intel,Core i7,1.8,Nvidia,GeForce,MX150,IPS Display,1920,False,74589.336
+Asus,Netbook,11.6,2,Windows,1.1,0,0,32,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,13053.6
+HP,Notebook,15.6,4,Windows,2.04,0,1024,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Touchscreen Display,1366,True,27783.9216
+Asus,Gaming,15.6,24,Windows,2.24,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,Other,Standard Display,1920,False,158135.04
+HP,Notebook,15.6,8,Windows,2.04,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,930MX,Standard Display,1920,False,47365.92
+Asus,Gaming,17.3,16,Windows,3.0,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,Other,Standard Display,1920,False,80133.12
+Lenovo,Gaming,15.6,8,Windows,3.2,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,74538.72
+HP,Ultrabook,13.3,8,Windows,1.32,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,74538.72
+Dell,Notebook,14.0,8,Windows,1.64,256,0,0,0,Intel,Core i5,2.6,Intel,HD,Graphics 620,Standard Display,1920,False,68184.0144
+HP,Notebook,15.6,4,Windows,1.63,128,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,36709.92
+Dell,Notebook,17.3,8,Linux,2.8,128,1024,0,0,Intel,Core i5,1.6,AMD,Radeon,530,IPS Display,1920,False,47365.92
+Lenovo,Notebook,14.0,8,Windows,2.02,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,71395.2
+Lenovo,Notebook,15.6,4,Windows,2.2,0,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,920MX,Standard Display,1920,False,42570.72
+Lenovo,Notebook,15.6,8,No OS,2.2,0,2048,0,0,Intel,Core i3,2.0,Nvidia,GeForce,920MX,Other,1366,False,24455.52
+Dell,Notebook,15.6,4,Windows,2.3,0,500,0,0,Intel,Core i5,2.5,AMD,Radeon,R5 M430,Standard Display,1920,False,31168.8
+Dell,Notebook,15.6,8,Windows,1.9,256,0,0,0,Intel,Core i5,2.8,Intel,HD,Graphics 620,Standard Display,1920,False,73366.56
+Dell,Gaming,17.3,16,Windows,4.42,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,IPS Display,1920,False,160520.3856
+Toshiba,Notebook,15.6,8,Windows,2.0,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,45820.8
+Asus,Notebook,15.6,8,Windows,2.0,256,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,GTX 960M,IPS Display,3840,False,69210.72
+Mediacom,Notebook,13.3,4,Windows,1.2,32,0,0,0,Intel,Other,1.1,Intel,HD,Graphics 500,IPS Display,1920,False,19660.32
+Asus,Gaming,15.6,8,Windows,2.3,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,87858.72
+Dell,Notebook,15.6,8,Windows,1.93,256,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,930MX,Standard Display,1920,False,72940.31999999999
+Dell,Notebook,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i5,1.6,AMD,Radeon,530,Standard Display,1920,False,42486.0048
+HP,Notebook,15.6,4,Windows,1.86,256,0,0,0,Intel,Other,1.6,Intel,HD,Other,Standard Display,1920,False,21258.1872
+HP,Gaming,17.3,12,Windows,2.62,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,95850.72
+Lenovo,Notebook,14.0,8,Windows,1.87,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,IPS Display,1920,False,45767.52
+Dell,Ultrabook,13.3,8,Windows,1.2,256,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Touchscreen Display,3200,True,74538.72
+Dell,Notebook,14.0,4,Windows,1.6,128,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,39207.1536
+HP,Ultrabook,13.3,8,Windows,1.34,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,3200,False,61005.6
+Acer,Gaming,15.6,8,Linux,2.4,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,42517.44
+Asus,Notebook,15.6,4,Windows,2.0,0,500,0,0,AMD,Other,1.8,AMD,Radeon,Other,Other,1366,False,18594.72
+HP,Notebook,15.6,4,Windows,2.1,128,0,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Standard Display,1920,False,37589.04
+Lenovo,Notebook,14.0,4,Windows,1.87,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,41824.8
+Lenovo,Notebook,15.6,4,No OS,2.15,0,1024,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,24634.008
+HP,Notebook,15.6,4,Windows,1.86,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,21152.16
+Lenovo,Notebook,15.6,8,Windows,1.99,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,92121.12
+Lenovo,Notebook,15.6,4,Windows,2.2,128,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,26586.72
+Dell,Notebook,15.6,8,Windows,1.9,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,59513.2272
+Dell,Gaming,17.3,16,Windows,4.42,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,IPS Display,1920,False,143802.72
+HP,Notebook,17.3,8,Windows,2.65,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1600,False,28992.312
+HP,Notebook,17.3,8,Windows,2.63,0,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,930MX,Standard Display,1920,False,68198.4
+Asus,Notebook,15.6,4,Linux,2.0,0,500,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,11934.72
+Mediacom,Notebook,13.3,4,Windows,1.35,0,0,32,0,Intel,Other,1.44,Intel,HD,Graphics,IPS Display,1920,False,13586.4
+Lenovo,Notebook,17.3,6,Windows,2.8,128,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Other,1600,False,50562.72
+HP,Notebook,15.6,6,Windows,1.91,128,0,0,0,AMD,Other,2.5,AMD,Radeon,530,IPS Display,1920,False,30310.992
+Dell,Notebook,15.6,4,Windows,2.18,0,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,Other,Other,1366,False,32921.712
+Acer,2 in 1 Convertible,11.6,4,Windows,1.25,0,0,32,0,Intel,Celeron Dual Core,2.0,Intel,HD,Graphics 500,IPS Display,1920,True,18594.72
+Lenovo,Notebook,15.6,4,Windows,2.05,128,0,0,0,Intel,Core i3,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,33566.4
+HP,Ultrabook,13.3,16,Windows,1.16,512,0,0,0,Intel,Other,1.2,Intel,HD,Graphics 515,IPS Display,3200,True,104695.2
+Lenovo,Notebook,17.3,8,Windows,3.4,256,0,0,0,Intel,Core i7,2.8,Nvidia,Quadro,Other,IPS Display,1920,False,159786.72
+Asus,Notebook,15.6,8,Windows,2.5,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,44701.92
+Dell,Ultrabook,13.3,8,Windows,1.21,128,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,3840,True,85194.72
+Dell,Notebook,15.6,4,Windows,1.93,0,500,0,0,Intel,Core i5,2.6,Intel,HD,Graphics 620,Other,1366,False,51095.52
+Fujitsu,Notebook,15.6,8,Windows,2.2,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,39373.92
+Lenovo,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Other,1.1,Intel,HD,Graphics 505,Standard Display,1920,False,18328.32
+Lenovo,Notebook,14.0,4,Windows,2.02,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,52747.2
+HP,Workstation,17.3,8,Windows,3.14,0,500,0,0,Intel,Core i5,2.8,Nvidia,Quadro,Other,Other,1600,False,99153.5472
+HP,Notebook,14.0,8,Windows,1.94,0,2048,0,0,Intel,Other,1.6,Intel,HD,Other,Other,1366,False,20725.92
+HP,Notebook,15.6,6,Windows,1.95,256,0,0,0,AMD,Other,3.0,AMD,Radeon,530,IPS Display,1920,False,34578.72
+Lenovo,Notebook,15.6,8,Windows,2.3,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,44222.4
+Lenovo,Notebook,15.6,4,Windows,2.05,0,500,0,0,Intel,Core i5,1.6,Intel,HD,Graphics 620,Standard Display,1920,False,36496.8
+Mediacom,Notebook,14.0,4,Windows,1.4,32,0,0,0,Intel,Other,1.44,Intel,HD,Graphics,Standard Display,1920,False,13266.72
+Toshiba,Ultrabook,14.0,16,Windows,1.24,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,True,99367.2
+Lenovo,Gaming,17.3,32,Windows,4.6,256,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,GTX 1070,IPS Display,1920,False,141884.63999999998
+MSI,Gaming,17.3,16,Windows,4.14,512,1024,0,0,Intel,Core i7,2.9,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,145401.12
+Dell,Notebook,15.6,8,Linux,2.2,256,0,0,0,Intel,Core i7,2.7,AMD,Radeon,R5 M430,Standard Display,1920,False,39907.2528
+Mediacom,Notebook,14.0,4,Windows,1.45,32,0,0,0,Intel,Other,1.1,Intel,HD,Graphics 500,IPS Display,1920,False,20725.92
+Dell,Notebook,15.6,8,Windows,1.9,0,500,0,0,Intel,Core i5,2.6,Intel,HD,Graphics 620,Other,1366,False,53733.94559999999
+HP,Notebook,13.3,4,Windows,1.49,128,0,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Standard Display,1920,False,38308.32
+Dell,Notebook,15.6,16,Windows,1.93,256,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,930MX,Standard Display,1920,False,81912.13919999999
+Dell,Netbook,11.6,4,Chrome OS,1.26,0,0,16,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,15717.6
+MSI,Gaming,17.3,16,Windows,4.5,128,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,GTX 980M,Standard Display,1920,False,125154.72
+HP,Gaming,17.3,16,Windows,3.78,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,79813.44
+Lenovo,Ultrabook,14.0,12,Windows,1.4,256,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,IPS Display,1920,False,89137.44
+Lenovo,Notebook,15.6,12,Windows,2.2,0,1024,0,0,Intel,Core i7,1.8,Intel,HD,Graphics 620,Touchscreen Display,1366,True,32447.52
+Asus,Gaming,17.3,8,Windows,2.73,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,94305.6
+Asus,2 in 1 Convertible,15.6,8,Windows,2.2,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 520,Touchscreen Display,1366,True,39373.92
+Lenovo,Notebook,15.6,12,Windows,2.2,512,0,0,0,AMD,Other,3.6,AMD,Radeon,530,Standard Display,1920,False,50562.72
+Dell,2 in 1 Convertible,11.6,4,Windows,1.39,128,0,0,0,Intel,Other,1.0,Intel,HD,Graphics 615,Touchscreen Display,1366,True,32127.84
+Samsung,Notebook,15.6,16,Windows,2.5,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,90522.72
+Lenovo,Notebook,17.3,4,No OS,2.8,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,28185.12
+Lenovo,Notebook,15.6,8,Windows,2.29,0,1024,0,0,Intel,Core i3,2.3,Intel,HD,Graphics 520,Other,1366,False,24455.52
+Lenovo,2 in 1 Convertible,13.3,8,Windows,1.37,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,True,107892.0
+Lenovo,Notebook,14.0,8,Windows,1.7,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Other,IPS Display,1920,False,78534.72
+Dell,2 in 1 Convertible,12.5,8,Windows,1.34,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,True,88977.59999999999
+Dell,Workstation,15.6,8,Windows,2.06,256,0,0,0,Intel,Core i7,2.8,Nvidia,Quadro,Other,Standard Display,1920,True,93932.64
+HP,Notebook,15.6,8,Windows,1.84,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,64948.32
+HP,Notebook,15.6,4,Windows,2.1,0,500,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,35616.6144
+Acer,Notebook,14.0,4,Windows,1.6,0,0,32,0,Intel,Other,1.1,Intel,HD,Graphics 500,Standard Display,1920,False,17529.12
+MSI,Gaming,17.3,16,Windows,4.14,128,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,Other,Standard Display,1920,False,117162.72
+Dell,Notebook,15.6,4,Linux,2.18,0,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,Other,Other,1366,False,24775.2
+MSI,Gaming,15.6,16,Windows,1.8,256,2048,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,3840,False,122490.72
+Toshiba,Notebook,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,1920,False,74538.72
+Lenovo,Notebook,15.6,6,Windows,2.4,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,30049.92
+Lenovo,2 in 1 Convertible,15.6,8,Windows,2.0,256,0,0,0,Intel,Core i7,2.8,Intel,HD,Other,IPS Display,1920,True,69210.72
+Acer,Notebook,14.0,4,Windows,1.6,0,0,128,0,Intel,Other,1.6,Intel,HD,Other,Other,1366,False,18594.72
+Lenovo,Notebook,15.6,32,Windows,2.5,1024,0,0,0,Intel,Other,3.1,Nvidia,Quadro,Other,IPS Display,3840,False,261018.72
+Dell,Gaming,15.6,16,Windows,2.59,0,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,Other,Standard Display,1920,False,46833.6528
+Dell,Notebook,15.6,4,Linux,2.18,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,23650.992
+Dell,Notebook,15.6,4,Linux,2.25,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,19127.52
+Dell,Notebook,15.6,4,Linux,1.93,0,500,0,0,Intel,Core i5,2.6,Intel,HD,Graphics 620,Other,1366,False,46300.32
+Asus,Gaming,17.3,8,Windows,3.0,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,62231.04
+Dell,Notebook,15.6,4,Linux,2.18,128,0,0,0,Intel,Core i5,2.5,AMD,Radeon,Other,Standard Display,1920,False,30316.32
+HP,Ultrabook,15.6,8,Windows,1.84,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,74005.92
+MSI,Gaming,15.6,16,Windows,2.94,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,120831.5808
+Acer,2 in 1 Convertible,11.6,4,Chrome OS,1.25,0,0,32,0,Intel,Other,1.6,Intel,HD,Graphics 400,IPS Display,1366,True,20193.12
+HP,Notebook,14.0,8,Windows,2.31,256,0,0,0,Intel,Core i5,2.6,Intel,HD,Graphics 620,Other,1366,False,59886.72
+Lenovo,Notebook,14.0,8,Windows,1.65,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,78055.2
+Dell,Notebook,15.6,4,Windows,2.2,0,1024,0,0,Intel,Core i5,1.6,AMD,Radeon,530,Standard Display,1920,False,41345.28
+Fujitsu,Notebook,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,42570.72
+HP,Notebook,15.6,4,Windows,1.88,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,49656.96
+Lenovo,Notebook,15.6,8,Windows,2.2,0,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,920MX,Standard Display,1920,False,47898.72
+Mediacom,Notebook,14.0,2,Windows,1.4,0,0,32,0,Intel,Other,1.44,Intel,HD,Graphics,Standard Display,1920,False,12733.92
+Lenovo,Notebook,15.6,4,No OS,2.2,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,24935.04
+Asus,2 in 1 Convertible,13.3,6,Windows,1.5,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,True,34046.4528
+Dell,Notebook,15.6,8,Windows,2.0,256,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,96969.6
+Asus,Ultrabook,14.0,16,Windows,1.1,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,101232.0
+Dell,Gaming,15.6,16,Windows,2.62,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,78801.12
+Lenovo,Notebook,15.6,4,Windows,1.8,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,False,44169.12
+Lenovo,Notebook,15.6,4,Windows,2.2,0,1024,0,0,Intel,Core i3,2.0,Nvidia,GeForce,920MX,Standard Display,1920,False,30849.12
+Asus,Notebook,15.6,8,Windows,2.0,0,1024,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,21258.72
+Asus,Notebook,15.6,8,Windows,1.99,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,48304.7136
+Dell,Ultrabook,13.3,8,Windows,1.23,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Touchscreen Display,3200,True,99580.32
+Lenovo,Notebook,14.0,2,Windows,1.42,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,13266.72
+Lenovo,2 in 1 Convertible,13.3,8,Windows,1.37,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,True,93635.3376
+Dell,Notebook,15.6,16,Windows,2.06,1024,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Touchscreen Display,3840,True,127818.72
+Lenovo,Gaming,15.6,8,Windows,2.5,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,Other,IPS Display,1920,False,59087.52
+HP,Notebook,17.0,8,Windows,2.6,0,1024,0,0,AMD,Other,3.0,AMD,Radeon,R5,Other,1600,False,27753.552
+Lenovo,Ultrabook,14.0,16,Windows,1.14,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,130536.0
+Asus,Gaming,15.6,8,No OS,2.5,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,IPS Display,1920,False,62284.32
+Acer,Notebook,15.6,4,Windows,2.4,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,23976.0
+Lenovo,Notebook,14.0,4,Windows,1.43,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics,Other,1366,False,14598.72
+Acer,Ultrabook,14.0,8,Windows,1.8,256,0,0,0,Intel,Core i5,2.5,Intel,Graphics,Other,IPS Display,1920,False,48964.32
+Razer,Gaming,14.0,16,Windows,1.95,256,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,138474.72
+Toshiba,Notebook,13.3,8,Windows,1.2,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,64628.64
+Lenovo,Ultrabook,12.5,8,Windows,1.36,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,84395.52
+Asus,Gaming,17.3,32,Windows,3.8,512,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,Other,IPS Display,1920,False,149130.72
+Acer,Gaming,15.6,8,Linux,2.4,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,37775.52
+Dell,Ultrabook,13.3,8,Windows,1.2,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,False,77250.672
+MSI,Gaming,15.6,8,Windows,2.2,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,63499.10399999999
+HP,Notebook,15.6,4,No OS,1.86,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,19441.872
+Toshiba,Notebook,15.6,8,Windows,2.0,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,56689.92
+Dell,Notebook,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,48964.32
+Dell,Notebook,15.6,16,Windows,2.2,256,2048,0,0,Intel,Core i7,1.8,AMD,Radeon,530,Standard Display,1920,False,60472.8
+Lenovo,Gaming,15.6,8,Windows,3.31,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,Other,IPS Display,1920,False,63722.88
+Dell,Gaming,17.3,32,Windows,4.42,512,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,IPS Display,3840,False,167691.8736
+Dell,Notebook,14.0,8,Windows,1.56,256,0,0,0,Intel,Core i5,2.4,Intel,HD,Graphics 520,Standard Display,1920,False,65481.12
+Lenovo,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,22324.32
+Lenovo,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,28504.8
+HP,Notebook,15.6,6,Windows,2.04,0,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,R5 M430,Other,1920,False,28717.92
+MSI,Gaming,17.3,8,Windows,2.7,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,79215.1056
+Toshiba,Notebook,15.6,4,Windows,2.1,128,0,0,0,Intel,Core i3,2.1,Intel,HD,Graphics 520,Other,1366,False,26533.44
+Dell,Notebook,15.6,8,Windows,2.06,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,50882.4
+HP,Notebook,15.6,8,Windows,2.1,0,1024,0,0,Intel,Core i7,2.7,AMD,Radeon,530,Standard Display,1920,False,39693.6
+Toshiba,Notebook,15.6,8,Windows,2.0,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,67026.23999999999
+Acer,Notebook,15.6,4,Linux,2.1,128,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,21951.36
+Microsoft,Ultrabook,13.5,8,Windows,1.252,256,0,0,0,Intel,Core i7,2.8,Intel,Iris,Other,Touchscreen Display,2256,True,99519.048
+Lenovo,Notebook,15.6,8,Windows,1.9,128,1024,0,0,Intel,Core i5,2.5,AMD,Radeon,R5 M430,Standard Display,1920,False,43580.376
+Lenovo,2 in 1 Convertible,13.3,8,Windows,1.3,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,True,55091.52
+Lenovo,Notebook,15.6,4,Windows,2.2,128,0,0,0,AMD,Other,2.2,AMD,Radeon,Other,Other,1366,False,18594.72
+HP,2 in 1 Convertible,14.0,4,Windows,1.63,128,0,0,0,Intel,Core i3,2.4,Nvidia,GeForce,940MX,IPS Display,1920,True,37242.72
+MSI,Gaming,15.6,16,Windows,2.4,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,68944.31999999999
+Asus,Ultrabook,14.0,8,Windows,1.1,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,60472.8
+HP,2 in 1 Convertible,11.6,8,Chrome OS,1.4,0,0,64,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Touchscreen Display,1366,True,26373.6
+LG,Ultrabook,15.6,8,Windows,1.09,512,0,0,0,Intel,Core i7,1.8,Intel,HD,Graphics 620,IPS Display,1920,False,122490.72
+Acer,Gaming,15.6,16,Windows,2.5,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,69210.72
+MSI,Gaming,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,53168.112
+Asus,Notebook,15.6,4,Windows,1.86,128,0,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,22324.32
+Dell,Gaming,15.6,16,Windows,3.21,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,109277.28
+HP,Notebook,17.3,4,Windows,2.5,256,0,0,0,Intel,Core i3,2.0,AMD,Radeon,Other,IPS Display,1920,False,37242.72
+Lenovo,2 in 1 Convertible,13.3,8,Windows,1.19,512,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,IPS Display,1920,True,79866.72
+Dell,Gaming,15.6,16,Windows,3.49,256,1024,0,0,Intel,Core i7,2.9,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,149916.6
+HP,Notebook,15.6,4,Windows,1.86,0,500,0,0,Intel,Core i5,2.5,AMD,Radeon,520,Other,1366,False,32639.8608
+Dell,Notebook,15.6,4,Windows,2.2,0,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,R5 M430,Other,1366,False,29073.297599999994
+HP,Notebook,17.3,6,Windows,2.65,0,2048,0,0,AMD,Other,2.4,AMD,Radeon,Other,IPS Display,1920,False,30316.32
+Lenovo,Notebook,15.6,4,Windows,2.1,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Other,Other,1366,False,16943.04
+Acer,Notebook,14.0,4,Chrome OS,1.45,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Other,Other,1366,False,19980.0
+Lenovo,Notebook,14.0,4,Windows,1.7,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,37242.72
+HP,Workstation,17.3,8,Windows,3.14,0,500,0,0,Intel,Core i7,2.8,Nvidia,Quadro,Other,Standard Display,1920,False,101657.7072
+Lenovo,2 in 1 Convertible,14.0,8,Windows,1.42,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Touchscreen Display,2560,True,137995.19999999998
+Toshiba,Notebook,13.3,8,Windows,1.5,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,51841.44
+Acer,Netbook,11.6,4,Windows,1.4,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics,Other,1366,False,14332.32
+Lenovo,2 in 1 Convertible,14.0,16,Windows,1.38,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,True,93186.72
+Asus,2 in 1 Convertible,12.5,4,Chrome OS,1.2,0,0,64,0,Intel,Other,0.9,Intel,HD,Graphics 515,Standard Display,1920,True,35644.32
+Toshiba,Ultrabook,13.3,16,Windows,1.36,512,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,True,100006.56
+HP,Notebook,15.6,4,Windows,2.1,0,500,0,0,Intel,Core i7,2.7,AMD,Radeon,530,IPS Display,1920,False,36709.92
+Dell,Gaming,15.6,8,Windows,2.56,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,43636.32
+Lenovo,Notebook,15.6,4,Windows,2.2,256,0,0,0,AMD,Other,2.9,AMD,Radeon,530,Standard Display,1920,False,21258.72
+Lenovo,Notebook,15.6,8,Windows,2.2,0,1024,0,0,AMD,Other,3.6,AMD,Radeon,Other,Other,1366,False,22857.12
+Lenovo,Notebook,15.6,4,Windows,2.1,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,33110.856
+Lenovo,Notebook,15.6,4,No OS,1.9,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,23976.0
+Dell,Notebook,15.6,8,Windows,2.18,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,42357.6
+Acer,2 in 1 Convertible,13.3,8,Windows,1.6,256,0,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,IPS Display,1920,True,53226.72
+Lenovo,Workstation,15.6,16,Windows,2.18,512,0,0,0,Intel,Core i7,2.5,Nvidia,Quadro,Other,Standard Display,1920,False,98834.4
+Lenovo,Notebook,14.0,8,Windows,1.8,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,63456.48
+HP,Notebook,17.3,6,Windows,2.71,0,2048,0,0,AMD,Other,2.5,AMD,Radeon,530,IPS Display,1920,False,34898.932799999995
+Lenovo,Gaming,15.6,8,Windows,2.5,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,IPS Display,1920,False,66546.72
+Dell,Notebook,14.0,8,Linux,1.64,256,0,0,0,Intel,Core i5,2.8,Nvidia,GeForce,930MX,Standard Display,1920,False,58021.92
+Dell,Notebook,15.6,8,Linux,1.98,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,38681.28
+Asus,Notebook,14.0,4,Windows,1.5,0,0,32,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Standard Display,1920,False,15877.44
+Dell,Notebook,15.6,16,Windows,1.93,512,0,0,0,Intel,Core i5,2.6,Intel,HD,Graphics 620,Standard Display,1920,False,76012.44480000001
+Lenovo,Notebook,14.0,8,Windows,1.87,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,920MX,IPS Display,1920,False,45664.6896
+Dell,Notebook,15.6,8,Windows,1.9,256,0,0,0,Intel,Core i5,2.6,Intel,HD,Graphics 620,Standard Display,1920,False,62817.12
+Lenovo,Notebook,15.6,4,Windows,2.19,0,500,0,0,AMD,Other,2.0,AMD,Radeon,Other,Other,1366,False,15877.44
+Mediacom,Notebook,14.0,4,Windows,1.4,0,32,0,0,Intel,Other,1.92,Intel,HD,Graphics 400,IPS Display,1920,False,14119.2
+HP,Notebook,17.3,8,Windows,2.63,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,930MX,Standard Display,1920,False,63936.0
+Lenovo,Ultrabook,14.0,8,Windows,1.17,512,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,2560,False,89864.1792
+HP,2 in 1 Convertible,13.3,8,Windows,1.58,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1366,True,44574.048
+Lenovo,Ultrabook,14.0,8,Windows,1.32,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,79866.72
+Dell,Gaming,17.3,32,Windows,4.36,1024,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,3840,False,194972.832
+MSI,Gaming,17.3,8,Windows,2.7,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,71847.0144
+Lenovo,Notebook,15.6,4,No OS,1.9,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,26101.872
+Dell,Notebook,15.6,8,Windows,2.2,128,1024,0,0,Intel,Core i5,1.6,AMD,Radeon,530,Standard Display,1920,False,38308.32
+Dell,2 in 1 Convertible,13.3,4,Windows,1.71,0,1024,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Standard Display,1920,True,34578.72
+Dell,Notebook,15.6,8,Linux,2.32,0,1024,0,0,Intel,Core i5,2.5,AMD,Radeon,R7 M445,Other,1366,False,31409.6256
+HP,Notebook,15.6,4,Windows,2.1,0,1024,0,0,AMD,Other,3.0,AMD,Radeon,520,Standard Display,1920,False,26053.92
+Acer,Gaming,17.3,16,Windows,4.2,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,103096.8
+Dell,Notebook,15.6,12,Windows,2.25,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,34578.72
+HP,Notebook,15.6,6,Windows,2.1,128,1024,0,0,AMD,Other,3.0,AMD,Radeon,520,Standard Display,1920,False,34632.0
+Acer,Notebook,15.6,4,Windows,2.4,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,29783.52
+Lenovo,Notebook,13.3,8,Windows,1.44,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,51148.8
+Lenovo,Notebook,15.6,4,Windows,1.85,0,1024,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,41505.12
+HP,Workstation,15.6,16,Windows,2.6,256,0,0,0,Intel,Core i7,2.8,Nvidia,Quadro,Other,Standard Display,1920,False,128884.32
+Dell,2 in 1 Convertible,13.3,8,Windows,1.55,0,1024,0,0,Intel,Core i5,1.6,Intel,UHD,Graphics 620,Standard Display,1920,True,35111.52
+MSI,Gaming,15.6,16,Windows,1.8,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,111593.8944
+Acer,Notebook,15.6,4,Windows,2.4,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,21887.424
+Dell,Notebook,15.6,8,Windows,2.0,128,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Standard Display,1920,False,64308.96
+Dell,Notebook,15.6,8,Windows,2.0,256,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,35431.2
+Toshiba,Notebook,14.0,8,Windows,1.25,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,True,81784.8
+Lenovo,2 in 1 Convertible,14.0,8,Windows,1.7,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,True,53226.72
+Lenovo,Workstation,15.6,16,Windows,2.5,1024,0,0,0,Intel,Core i7,2.8,Nvidia,Quadro,Other,IPS Display,3840,False,175770.72
+Acer,Notebook,14.0,2,Chrome OS,1.68,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,17582.399999999998
+Samsung,Ultrabook,13.3,16,Windows,0.81,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,87858.72
+HP,Notebook,15.6,8,Windows,1.86,256,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,28717.92
+Dell,Notebook,14.0,8,Windows,1.6,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,60031.1088
+HP,Workstation,17.3,16,Windows,3.0,256,0,0,0,Intel,Other,2.9,Nvidia,Quadro,Other,IPS Display,1920,False,233845.92
+Lenovo,Netbook,11.6,4,Windows,1.4,128,0,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Touchscreen Display,1366,True,25308.0
+HP,Notebook,15.6,8,Windows,1.84,256,0,0,0,Intel,Core i5,2.4,Intel,HD,Graphics 520,Standard Display,1920,False,101232.0
+Asus,Notebook,15.6,4,No OS,2.45,0,1024,0,0,Intel,Core i5,2.3,Nvidia,GeForce,Other,Other,1366,False,30849.12
+Lenovo,Ultrabook,14.0,4,Windows,1.7,180,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,58394.88
+Asus,Notebook,15.6,4,Windows,2.37,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Other,1366,False,45282.672
+Lenovo,2 in 1 Convertible,13.3,8,Windows,1.3,256,0,0,0,Intel,Core i5,1.8,Intel,HD,Other,IPS Display,3200,True,63882.72
+HP,Notebook,15.6,8,Windows,2.2,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,58554.72
+HP,Workstation,15.6,8,Windows,2.59,256,0,0,0,Intel,Core i7,2.6,Nvidia,Quadro,Other,Standard Display,1920,False,83170.08
+Dell,Gaming,15.6,16,Windows,4.42,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,IPS Display,3840,False,152859.7872
+Acer,Notebook,15.6,4,Windows,2.1,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,31914.72
+Lenovo,Gaming,15.6,8,Windows,2.5,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,55837.44
+Dell,Ultrabook,12.5,16,Windows,1.18,256,0,0,0,Intel,Core i7,2.8,Intel,HD,Graphics 620,Standard Display,1920,False,99047.52
+Google,Ultrabook,12.3,8,Chrome OS,1.1,256,0,0,0,Intel,Core i5,1.2,Intel,HD,Graphics 615,Touchscreen Display,2400,True,83063.52
+Asus,Ultrabook,13.3,8,Windows,1.2,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,3200,False,60153.12
+Dell,Notebook,13.3,4,Windows,1.65,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,45234.72
+Acer,Notebook,13.3,4,Windows,1.6,128,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,34898.4
+Asus,Notebook,17.3,4,Windows,2.8,0,1024,0,0,Intel,Other,1.1,Nvidia,GeForce,920MX,Other,1366,False,25059.715199999995
+Dell,Gaming,15.6,16,Windows,2.72,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 960M,IPS Display,3840,True,58554.72
+Samsung,Ultrabook,13.3,8,Windows,1.31,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,True,85194.72
+Acer,Notebook,15.6,4,Linux,2.1,0,1024,0,0,Intel,Other,1.1,Intel,HD,Graphics 505,Other,1366,False,15877.44
+Dell,Notebook,15.6,16,Windows,2.3,256,0,0,0,Intel,Core i7,2.7,AMD,Radeon,R7 M445,Standard Display,1920,False,62938.0656
+Samsung,2 in 1 Convertible,15.0,16,Windows,1.71,256,0,0,0,Intel,Core i7,2.7,AMD,Radeon,Other,Standard Display,1920,True,95850.72
+Toshiba,Notebook,14.0,4,Windows,1.75,128,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,IPS Display,1366,False,54345.6
+Dell,Gaming,15.6,8,Windows,2.62,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,58554.72
+HP,Ultrabook,12.5,4,Windows,1.26,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,66280.31999999999
+Asus,2 in 1 Convertible,15.6,12,Windows,2.3,0,2048,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Standard Display,1920,True,44701.92
+Lenovo,Notebook,15.6,16,Windows,2.5,512,0,0,0,Intel,Core i7,2.7,Nvidia,Quadro,Other,Standard Display,3840,False,126273.6
+Acer,Notebook,14.0,4,Windows,1.8,128,0,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,IPS Display,1920,False,33886.08
+Razer,Gaming,14.0,16,Windows,1.95,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,154458.72
+Asus,Notebook,15.6,8,Windows,2.0,128,0,0,0,Intel,Other,1.1,Intel,HD,Graphics 505,Other,1920,False,31003.632
+Dell,Gaming,17.3,32,Windows,4.42,1024,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,Other,IPS Display,1920,False,191211.264
+Asus,Gaming,17.3,16,Windows,4.3,256,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 1070,IPS Display,1920,False,125208.0
+Toshiba,Ultrabook,14.0,16,Windows,1.47,512,0,0,0,Intel,Core i7,2.6,Nvidia,GeForce,Other,IPS Display,1920,False,93985.92
+Lenovo,Notebook,15.6,8,No OS,2.2,0,1024,0,0,Intel,Other,1.6,Intel,HD,Other,Other,1366,False,17529.12
+Lenovo,Ultrabook,14.0,16,Windows,1.7,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,122490.72
+MSI,Gaming,14.0,16,Windows,1.6,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,100752.48
+MSI,Gaming,15.6,8,Windows,2.2,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,58021.92
+Lenovo,Gaming,15.6,4,Windows,2.4,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,53226.72
+Acer,Gaming,17.3,16,Windows,4.2,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,122490.72
+Dell,Gaming,15.6,8,Windows,2.62,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,52480.8
+Asus,Gaming,15.6,8,Windows,2.24,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,Other,Standard Display,1920,False,71341.92
+Vero,Notebook,14.0,4,Windows,1.22,0,0,32,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1920,False,10810.512
+Lenovo,2 in 1 Convertible,13.3,8,Windows,1.37,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,True,104961.6
+Lenovo,2 in 1 Convertible,15.6,8,Windows,2.08,256,0,0,0,Intel,Core i5,2.5,AMD,Radeon,Other,Standard Display,1920,True,51095.52
+Apple,Ultrabook,12.0,8,macOS,0.92,0,0,512,0,Intel,Other,1.2,Intel,HD,Other,IPS Display,2304,False,62071.2
+Lenovo,2 in 1 Convertible,14.0,8,Windows,1.42,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,2560,True,124142.4
+Asus,Notebook,14.0,4,Windows,1.63,0,0,32,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,15930.72
+Dell,Notebook,15.6,8,Windows,1.95,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,43156.8
+Lenovo,2 in 1 Convertible,13.9,8,Windows,1.38,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,True,71874.72
+Dell,Notebook,15.6,8,Windows,2.0,256,0,0,0,Intel,Core i3,2.0,AMD,Radeon,Other,Standard Display,1920,False,39373.92
+HP,Workstation,15.6,8,Windows,3.14,256,0,0,0,Intel,Core i7,2.8,Nvidia,Quadro,Other,Standard Display,1920,False,110017.872
+Asus,Notebook,15.6,8,Windows,2.37,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,58554.72
+Dell,Ultrabook,13.3,8,Windows,1.29,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,79866.72
+Dell,Notebook,15.6,8,Windows,2.06,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Touchscreen Display,3840,True,93186.72
+Dell,Netbook,11.6,4,Windows,1.63,128,0,0,0,Intel,Other,1.1,Intel,HD,Graphics 505,Other,1366,False,39640.32
+HP,Netbook,12.5,8,Windows,1.26,256,0,0,0,Intel,Core i5,2.6,Intel,HD,Graphics 620,Other,1366,False,74005.92
+Toshiba,Notebook,15.6,4,Windows,2.1,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,41558.4
+HP,Notebook,15.6,8,Windows,2.04,0,2048,0,0,AMD,Other,2.5,AMD,Radeon,Other,Other,1366,False,33513.119999999995
+Dell,Gaming,15.6,16,Windows,2.62,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,3840,False,89457.12
+Lenovo,Notebook,15.6,4,Windows,2.4,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,Other,Standard Display,1920,False,32447.52
+HP,Gaming,17.3,12,Windows,3.74,0,1024,0,0,Intel,Core i7,2.8,AMD,Radeon,Other,IPS Display,1920,False,93186.72
+MSI,Gaming,17.3,16,Windows,2.9,512,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,128671.2
+Samsung,Ultrabook,13.3,8,Windows,0.81,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,79866.72
+Dell,Notebook,15.6,8,Windows,1.98,0,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,Other,Standard Display,1920,False,51202.08
+Dell,Notebook,15.6,8,Windows,2.18,256,0,0,0,Intel,Core i5,2.5,AMD,Radeon,Other,Standard Display,1920,False,42081.0768
+Lenovo,Ultrabook,14.0,8,Windows,1.32,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,99047.52
+Razer,Ultrabook,12.5,16,Windows,1.29,512,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 620,IPS Display,3840,True,95850.72
+HP,Netbook,11.6,4,Chrome OS,1.23,0,0,16,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,20512.8
+Dell,Gaming,17.3,16,Windows,4.36,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,133467.4656
+Dell,Notebook,14.0,4,Windows,1.76,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,40226.4
+Lenovo,Notebook,15.6,4,Windows,2.1,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,26101.872
+Toshiba,Ultrabook,14.0,4,Windows,1.25,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,58075.2
+Lenovo,Ultrabook,14.0,8,Windows,1.13,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,133146.72
+MSI,Gaming,15.6,8,Windows,2.4,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,63882.72
+Lenovo,Ultrabook,14.0,8,Windows,1.13,0,0,256,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,99900.0
+Toshiba,Notebook,14.0,4,Windows,1.75,128,0,0,0,Intel,Other,2.1,Intel,HD,Other,Other,1366,False,26586.72
+Asus,2 in 1 Convertible,13.3,8,Windows,1.1,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,True,72354.23999999999
+Dell,Notebook,14.0,4,Windows,1.76,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,31168.8
+Acer,Netbook,11.6,4,Chrome OS,1.35,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,IPS Display,1366,False,18914.4
+Acer,Notebook,14.0,8,Windows,1.5,128,0,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,IPS Display,1920,False,32980.32
+Razer,Gaming,17.3,32,Windows,3.49,512,0,0,0,Intel,Core i7,2.9,Nvidia,GeForce,Other,Touchscreen Display,3840,True,292986.72
+Lenovo,Ultrabook,14.0,16,Windows,1.1,512,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,IPS Display,2560,False,111834.72
+Asus,Notebook,15.6,4,Linux,2.1,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,Other,Standard Display,1920,False,27652.32
+Lenovo,Notebook,14.0,8,Windows,1.7,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,63190.08
+Lenovo,Notebook,14.0,8,Windows,1.32,256,0,0,0,Intel,Core i5,2.6,Intel,HD,Graphics 620,IPS Display,1920,False,87912.0
+Dell,Gaming,15.6,16,Windows,3.21,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,147832.28639999998
+Asus,Gaming,17.3,16,Windows,2.9,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,128884.32
+Toshiba,Notebook,15.6,4,Windows,2.0,0,500,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,35644.32
+Lenovo,Notebook,14.0,4,Chrome OS,1.5,0,0,16,0,Intel,Other,1.6,Intel,HD,Graphics 400,Other,1366,False,17316.0
+Asus,Notebook,15.6,8,Windows,2.3,0,128,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,31435.2
+Asus,Gaming,17.3,16,Windows,2.73,512,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,95850.72
+Dell,Gaming,17.3,32,Windows,4.42,512,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,IPS Display,1920,False,163723.57919999998
+HP,Notebook,17.3,8,Windows,2.63,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,930MX,Other,1600,False,48484.8
+Dell,Notebook,15.6,8,Windows,2.18,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,38041.3872
+HP,Ultrabook,14.0,8,Windows,1.54,512,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,99633.6
+Dell,Notebook,15.6,4,Windows,2.18,256,0,0,0,Intel,Core i7,2.7,AMD,Radeon,Other,Standard Display,1920,False,39373.92
+HP,2 in 1 Convertible,11.6,4,Chrome OS,1.4,0,0,32,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Touchscreen Display,1366,True,32767.2
+Asus,Ultrabook,13.3,8,Windows,1.45,512,0,0,0,Intel,Core i5,2.3,Nvidia,GeForce,Other,IPS Display,1920,False,54665.28
+HP,2 in 1 Convertible,13.3,8,Windows,1.28,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,True,121318.56
+HP,Ultrabook,14.0,8,Windows,1.54,512,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,78215.04
+HP,Notebook,15.6,4,No OS,1.86,128,0,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,15930.72
+Asus,Gaming,15.6,16,Windows,2.1,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,101178.72
+Dell,Notebook,17.3,8,Linux,2.83,0,1024,0,0,Intel,Core i7,2.7,AMD,Radeon,R7 M445,Standard Display,1920,False,46087.2
+Lenovo,Ultrabook,14.0,8,Windows,1.96,256,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,Other,IPS Display,1920,False,101391.84
+Asus,Notebook,15.6,8,Windows,2.3,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,Other,IPS Display,1920,False,41931.36
+Dell,Notebook,15.6,8,Windows,1.9,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,50349.6
+Asus,Notebook,15.6,4,Windows,2.0,0,1024,0,0,Intel,Other,1.1,Intel,HD,Graphics 505,Other,1366,False,23922.72
+HP,2 in 1 Convertible,13.3,8,Windows,1.28,256,0,0,0,Intel,Core i7,2.8,Intel,HD,Graphics 620,Standard Display,1920,True,136343.52
+Dell,Notebook,13.3,8,Windows,1.62,0,1024,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,True,34578.72
+Lenovo,Notebook,15.6,4,No OS,2.2,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,24988.32
+Lenovo,Notebook,15.6,8,Windows,2.3,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,45323.1648
+HP,Notebook,15.6,8,Windows,1.84,256,0,0,0,Intel,Core i5,2.6,AMD,Radeon,Other,Standard Display,1920,False,71874.72
+Toshiba,Notebook,13.3,4,Windows,1.05,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,68464.8
+Lenovo,Gaming,15.6,8,No OS,2.5,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,54185.76
+Dell,Ultrabook,13.3,16,Windows,1.29,512,0,0,0,Intel,Core i7,2.5,Intel,Iris,Other,Touchscreen Display,3200,True,119347.2
+HP,Notebook,15.6,4,Windows,2.07,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,48484.8
+Toshiba,Ultrabook,13.3,8,Windows,1.2,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,58341.6
+Lenovo,2 in 1 Convertible,13.3,8,Windows,1.37,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,True,103896.0
+Acer,Notebook,14.0,8,Windows,1.56,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,48058.56
+Dell,Workstation,15.6,8,Windows,2.23,0,1024,0,0,Intel,Core i7,2.8,Nvidia,Quadro,Other,Standard Display,1920,False,94731.84
+Lenovo,Notebook,15.6,4,Windows,2.38,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,56210.4
+Lenovo,Notebook,15.6,4,No OS,2.2,0,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,R5 M430,Standard Display,1920,False,25521.12
+Toshiba,Notebook,15.6,8,Windows,2.0,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,73952.64
+Lenovo,Notebook,13.3,4,Windows,1.44,180,0,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,IPS Display,1920,False,39160.8
+Samsung,Ultrabook,15.0,16,Windows,1.23,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Standard Display,1920,False,98514.72
+Dell,Ultrabook,12.5,8,Windows,1.6,256,0,0,0,Intel,Core i7,2.8,Intel,HD,Graphics 620,Standard Display,1920,False,90043.2
+Asus,Notebook,15.6,4,Linux,2.0,0,1024,0,0,Intel,Other,1.1,Intel,HD,Graphics 505,Other,1366,False,21258.1872
+Xiaomi,Ultrabook,13.3,8,Windows,1.28,256,0,0,0,Intel,Core i5,2.3,Nvidia,GeForce,940MX,IPS Display,1920,False,49816.8
+Dell,Notebook,15.6,4,Windows,2.18,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,940MX,Standard Display,1920,False,48618.0
+HP,Notebook,15.6,4,Windows,2.04,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,44701.92
+HP,2 in 1 Convertible,13.3,4,Windows,1.28,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,True,90576.0
+HP,2 in 1 Convertible,15.6,4,Windows,2.3,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Touchscreen Display,1366,True,36486.14399999999
+Asus,Notebook,14.1,4,Windows,1.65,0,0,32,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,18541.44
+Lenovo,Notebook,15.6,8,Windows,2.2,0,1024,0,0,Intel,Core i7,2.5,Nvidia,GeForce,940MX,IPS Display,1920,False,35644.32
+Dell,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Other,1.6,Intel,HD,Graphics,Other,1366,False,19660.32
+HP,2 in 1 Convertible,13.3,4,Windows,1.28,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,True,95850.72
+Dell,Notebook,15.6,4,Linux,2.18,0,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,Other,Other,1366,False,24279.696
+Asus,Gaming,17.3,12,Windows,2.2,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,72988.272
+Acer,Netbook,11.6,4,Chrome OS,1.25,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,IPS Display,1366,False,15824.16
+Lenovo,Notebook,17.3,4,Windows,2.8,0,500,0,0,AMD,Other,2.2,AMD,Radeon,Other,Other,1600,False,20193.12
+HP,Notebook,14.0,4,Windows,1.95,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,67399.2
+HP,2 in 1 Convertible,13.3,16,Windows,1.42,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Touchscreen Display,3200,True,74538.72
+Samsung,Ultrabook,15.0,8,Windows,1.17,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,90522.72
+Lenovo,Ultrabook,14.0,8,Windows,1.32,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,95850.72
+MSI,Gaming,17.3,16,Windows,2.43,512,2048,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 1060,IPS Display,3840,False,141138.72
+Toshiba,Notebook,13.3,8,Windows,1.05,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,78588.0
+Dell,Gaming,15.6,8,Linux,2.62,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,Other,Standard Display,1920,False,49497.12
+HP,Notebook,15.6,8,Windows,2.04,0,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,930MX,Standard Display,1920,False,47952.0
+Dell,Notebook,15.6,4,Windows,2.18,0,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,Other,Other,1366,False,32713.92
+Dell,Notebook,15.6,8,Windows,1.9,0,500,0,0,Intel,Core i5,2.6,Intel,HD,Graphics 620,Standard Display,1920,False,49816.8
+Dell,2 in 1 Convertible,13.3,8,Windows,1.24,512,0,0,0,Intel,Core i7,1.3,Intel,HD,Graphics 615,Touchscreen Display,3200,True,107257.968
+Asus,Gaming,17.3,32,Windows,3.58,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,GTX 980M,IPS Display,1920,False,68145.12
+Dell,2 in 1 Convertible,13.3,16,Windows,1.22,256,0,0,0,Intel,Core i7,1.3,Intel,HD,Graphics 615,Standard Display,1920,True,87858.72
+Lenovo,Ultrabook,14.0,8,Windows,1.13,0,0,256,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,109170.72
+Lenovo,Notebook,15.6,8,Windows,1.95,512,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,104588.1072
+LG,Ultrabook,15.6,16,Windows,1.08,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,True,111834.72
+HP,Netbook,12.5,8,Windows,1.26,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,79014.23999999999
+Acer,Notebook,15.6,4,Chrome OS,2.2,0,0,16,0,Intel,Celeron Dual Core,1.5,Intel,HD,Graphics,IPS Display,1920,False,19127.52
+Lenovo,Notebook,15.6,8,Windows,2.6,128,1024,0,0,Intel,Core i5,2.3,Nvidia,GeForce,GTX 960M,IPS Display,1920,False,42037.92
+LG,Ultrabook,14.0,8,Windows,0.98,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,True,101178.72
+Dell,Notebook,14.0,8,Windows,1.6,256,0,0,0,Intel,Core i5,2.8,Intel,HD,Graphics 620,Standard Display,1920,False,64202.4
+HP,Ultrabook,12.5,8,Windows,1.09,240,0,0,0,Intel,Other,1.2,Intel,HD,Graphics 515,Touchscreen Display,3840,True,165168.0
+Lenovo,Notebook,15.6,6,Windows,2.2,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Standard Display,1920,False,42037.92
+HP,Notebook,15.6,8,Windows,2.04,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,930MX,Standard Display,1920,False,54291.78719999999
+Acer,Notebook,15.6,4,Windows,2.4,0,1024,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Standard Display,1920,False,26586.72
+Lenovo,Notebook,13.3,4,Windows,1.44,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,46939.68
+HP,Notebook,13.3,8,Windows,1.49,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,51148.8
+MSI,Gaming,17.3,16,Windows,2.7,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,85194.72
+Dell,Gaming,15.6,16,Windows,2.6,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,71874.72
+MSI,Gaming,15.6,8,Windows,2.2,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,59668.804800000005
+Dell,Notebook,15.6,4,Windows,2.18,0,1024,0,0,Intel,Core i5,2.5,AMD,Radeon,Other,Other,1366,False,36496.2672
+HP,Ultrabook,15.6,8,Windows,1.84,256,0,0,0,Intel,Core i7,2.5,AMD,Radeon,Other,Standard Display,1920,False,69103.62719999999
+HP,Ultrabook,13.3,8,Windows,1.39,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Touchscreen Display,3200,True,61218.72
+Toshiba,Notebook,15.6,16,Windows,2.4,256,0,0,0,Intel,Core i7,2.6,Nvidia,GeForce,Other,IPS Display,1920,False,105228.0
+Lenovo,2 in 1 Convertible,13.3,8,Windows,1.37,512,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,True,97236.0
+Dell,Notebook,15.6,4,Windows,1.95,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,38889.072
+Lenovo,Ultrabook,12.5,8,Windows,1.36,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,87912.0
+HP,Notebook,15.6,8,Windows,2.31,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,62071.2
+Dell,Notebook,15.6,4,Windows,2.18,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,37725.4368
+HP,Notebook,14.0,4,Windows,1.95,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,61218.72
+Lenovo,Notebook,15.6,4,Windows,2.2,0,1024,0,0,Intel,Other,1.1,Intel,HD,Graphics 505,Other,1366,False,16463.52
+HP,Ultrabook,12.5,4,Windows,1.26,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,84129.12
+HP,Notebook,15.6,4,No OS,1.86,0,1024,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,15392.592
+Lenovo,2 in 1 Convertible,13.3,16,Windows,1.3,1024,0,0,0,Intel,Core i7,2.2,Intel,Iris,Other,IPS Display,3200,True,95850.72
+Toshiba,Notebook,14.0,4,Windows,1.47,128,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,IPS Display,1920,False,58874.4
+HP,Netbook,12.5,8,Windows,1.26,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,88924.31999999999
+Dell,Notebook,15.6,4,Windows,2.18,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,29762.208
+MSI,Gaming,15.6,8,Windows,2.2,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,63882.72
+Dell,Ultrabook,14.0,8,Windows,1.36,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,87325.92
+Dell,Gaming,17.3,16,Windows,4.36,512,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,Other,Other,2560,False,146946.24
+HP,Gaming,17.3,8,Windows,2.75,128,1024,0,0,Intel,Core i5,2.3,Nvidia,GeForce,Other,IPS Display,1920,False,74538.72
+Asus,Notebook,17.3,4,Windows,2.8,0,1024,0,0,Intel,Other,1.6,Nvidia,GeForce,920MX,Other,1600,False,28238.4
+Acer,Notebook,15.6,4,Windows,2.23,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,32980.32
+Toshiba,Notebook,15.6,8,Windows,2.2,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,59620.32
+Lenovo,2 in 1 Convertible,11.3,8,Windows,1.1,256,0,0,0,Intel,Other,1.2,Intel,HD,Graphics 515,IPS Display,1920,True,69210.72
+Lenovo,Gaming,15.6,16,Windows,2.5,512,1024,0,0,AMD,Other,2.1,AMD,Radeon,Other,IPS Display,1920,False,53226.72
+Dell,Ultrabook,12.5,8,Windows,1.36,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics,Standard Display,1920,True,78438.816
+Lenovo,Notebook,15.6,8,No OS,2.2,0,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,920MX,Standard Display,1920,False,36496.8
+Dell,Notebook,17.3,4,Windows,2.36,0,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,R7 M445,Other,1600,False,35111.52
+Acer,Notebook,14.0,4,Chrome OS,1.68,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,18594.72
+HP,Workstation,15.6,8,Windows,2.0,8,0,0,0,Intel,Core i7,2.7,Nvidia,Quadro,Other,IPS Display,1920,False,119826.72
+Dell,Ultrabook,14.0,8,Windows,1.36,256,0,0,0,Intel,Core i7,2.8,Intel,HD,Graphics 620,Standard Display,1920,False,94572.0
+Toshiba,Notebook,13.3,8,Windows,1.2,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,77788.8
+Asus,2 in 1 Convertible,12.5,8,Chrome OS,1.2,0,0,64,0,Intel,Other,1.2,Intel,HD,Graphics 515,Standard Display,1920,False,61751.52
+Lenovo,Ultrabook,14.0,8,Windows,1.7,256,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,IPS Display,1920,False,79333.3872
+Dell,Gaming,17.3,16,Windows,4.36,512,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,IPS Display,3840,False,168045.12
+Dell,2 in 1 Convertible,13.3,8,Windows,1.24,256,0,0,0,Intel,Core i5,1.2,Intel,HD,Graphics 615,Standard Display,1920,True,101178.72
+HP,2 in 1 Convertible,11.6,4,Windows,1.45,256,0,0,0,Intel,Other,1.1,Intel,HD,Graphics 505,Touchscreen Display,1366,True,41292.0
+Dell,Ultrabook,13.3,8,Windows,1.3,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,3200,False,67559.04
+Acer,2 in 1 Convertible,11.6,4,Chrome OS,1.25,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,IPS Display,1366,True,20725.92
+Toshiba,Notebook,13.3,8,Windows,1.2,256,0,0,0,Intel,Core i5,2.4,Intel,HD,Graphics 520,Standard Display,1920,False,81784.8
+Lenovo,Ultrabook,12.5,8,Windows,1.36,256,0,0,0,Intel,Core i5,2.6,Intel,HD,Graphics 620,IPS Display,1920,False,93772.8
+Acer,Notebook,15.6,12,Windows,2.4,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,Other,Standard Display,1920,False,53759.52
+Toshiba,Ultrabook,12.5,8,Windows,1.1,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,True,95371.2
+HP,Notebook,15.6,8,Windows,2.04,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,930MX,Other,1366,False,45101.52
+Dell,Notebook,15.6,4,Linux,2.25,0,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,R5 M430,Other,1366,False,24808.2336
+Dell,Notebook,15.6,4,Windows,1.9,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,43956.0
+HP,Notebook,15.6,4,Windows,2.04,0,500,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Standard Display,1920,False,36496.8
+Dell,Gaming,17.3,32,Windows,4.42,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,IPS Display,1920,False,167778.72
+Lenovo,Notebook,15.6,6,Windows,2.4,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,920MX,Standard Display,1920,False,37029.6
+Dell,2 in 1 Convertible,13.3,16,Windows,1.22,512,0,0,0,Intel,Core i7,1.3,Intel,HD,Graphics 615,Touchscreen Display,3200,True,101178.72
+Dell,Ultrabook,14.0,8,Windows,1.5,256,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,Touchscreen Display,2560,True,104587.57439999998
+Dell,Gaming,17.3,32,Windows,4.42,256,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,149184.0
+Toshiba,Notebook,14.0,8,Windows,1.95,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,62870.4
+Asus,Gaming,17.3,16,Windows,2.73,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,109218.672
+HP,Notebook,15.6,8,Windows,2.04,128,1024,0,0,Intel,Core i5,2.7,Nvidia,GeForce,930MX,IPS Display,1920,False,52161.12
+Lenovo,Notebook,14.0,4,Windows,1.7,0,0,0,508,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,53386.56
+Asus,2 in 1 Convertible,15.6,16,Windows,2.3,512,2048,0,0,Intel,Core i7,2.7,Nvidia,GeForce,Other,Touchscreen Display,3840,True,95850.72
+HP,Notebook,15.6,6,Windows,2.04,0,1024,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Other,1366,False,30849.12
+Asus,Gaming,17.3,16,Windows,2.99,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,93186.72
+Dell,2 in 1 Convertible,15.6,12,Windows,2.19,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,True,69210.72
+Toshiba,Notebook,13.3,4,Windows,1.2,128,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,63669.6
+Lenovo,Notebook,15.6,6,Windows,2.2,256,0,0,0,AMD,Other,3.6,AMD,Radeon,530,Standard Display,1920,False,29250.72
+Fujitsu,Notebook,15.6,4,Windows,2.3,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,34578.72
+Toshiba,Notebook,14.0,4,Windows,1.75,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,48751.2
+Dell,Notebook,15.6,4,Windows,2.25,0,500,0,0,Intel,Core i5,2.5,AMD,Radeon,R5 M430,Other,1366,False,31914.72
+HP,Notebook,15.6,8,Windows,2.04,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,42943.68
+Lenovo,Gaming,15.6,8,Windows,2.5,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,63349.92
+Dell,Notebook,15.6,8,Windows,2.36,0,1024,0,0,Intel,Core i7,2.7,AMD,Radeon,R7 M445,Other,1366,False,39906.72
+Dell,Notebook,14.0,8,Windows,1.6,128,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,59620.32
+HP,Netbook,12.5,8,Windows,0.97,512,0,0,0,Intel,Other,1.2,Intel,HD,Graphics 515,Standard Display,1920,False,101658.24
+HP,Notebook,15.6,4,Windows,2.1,128,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,520,Standard Display,1920,False,26586.72
+Lenovo,Notebook,15.6,4,No OS,1.9,128,0,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,14418.6336
+Lenovo,Notebook,15.6,8,Windows,2.3,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,71874.72
+Dell,2 in 1 Convertible,13.3,8,Windows,1.68,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,True,47365.92
+Asus,Notebook,13.3,8,Windows,1.4,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,3200,False,61272.0
+HP,Ultrabook,13.3,8,Windows,1.11,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,True,71874.72
+Acer,Notebook,15.6,4,Windows,2.4,0,500,0,0,Intel,Other,1.1,Intel,HD,Graphics 505,Other,1366,False,20246.4
+Asus,Gaming,15.6,16,Windows,2.5,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,95850.72
+HP,Ultrabook,14.0,8,Windows,1.48,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,111301.92
+Acer,Gaming,15.6,8,Windows,2.7,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,67132.8
+HP,Notebook,13.3,8,Windows,1.34,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,63349.92
+Dell,Notebook,15.6,4,Windows,2.18,128,0,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,29144.16
+HP,Notebook,14.0,4,Windows,1.64,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,41505.12
+Toshiba,Notebook,13.3,4,Windows,1.2,128,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,63669.6
+HP,Notebook,14.0,4,Windows,1.48,256,0,0,0,Intel,Core i5,2.4,Intel,HD,Graphics 520,Other,1366,False,58607.46719999999
+HP,Notebook,14.0,4,Windows,1.95,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,64202.4
+HP,Ultrabook,14.0,8,Windows,1.43,256,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,Standard Display,1920,False,77202.72
+HP,Notebook,14.0,8,Windows,1.64,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,930MX,Standard Display,1920,False,55904.5728
+HP,Notebook,14.0,4,Windows,1.64,0,500,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,36443.52
+Dell,Gaming,15.6,8,Windows,2.65,0,0,0,1024,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,50562.72
+HP,Ultrabook,12.5,4,Windows,1.26,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,81997.92
+HP,Notebook,14.0,4,Windows,1.48,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,84715.2
+HP,Ultrabook,14.0,8,Windows,1.54,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,100550.5488
+HP,Notebook,13.3,4,Windows,1.49,0,500,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,42624.0
+Toshiba,Notebook,13.3,8,Windows,1.5,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,64468.8
+HP,Notebook,15.6,4,Windows,2.04,256,0,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,41025.0672
+Lenovo,Notebook,17.3,16,Windows,2.4,512,0,0,0,Intel,Core i7,2.7,Nvidia,Quadro,Other,IPS Display,3840,False,158135.04
+Toshiba,Notebook,14.0,8,Windows,1.47,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,IPS Display,1920,False,79387.2
+HP,Notebook,14.0,8,Windows,1.43,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,118761.12
+Dell,2 in 1 Convertible,15.6,4,Windows,2.08,0,1024,0,0,Intel,Core i3,2.3,Intel,HD,Graphics 520,IPS Display,1920,True,42410.3472
+Toshiba,Ultrabook,13.3,8,Windows,1.2,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,84715.2
+HP,Notebook,13.3,8,Windows,1.11,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,61218.72
+HP,Notebook,14.0,8,Windows,1.64,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,930MX,Standard Display,1920,False,63159.7104
+Dell,Notebook,15.6,8,Windows,2.09,0,500,0,0,Intel,Core i5,2.4,Intel,HD,Graphics 520,Standard Display,1920,False,55754.3232
+HP,Ultrabook,12.5,4,Windows,1.26,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,83063.52
+HP,Notebook,14.0,4,Windows,2.31,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,63349.92
+HP,Notebook,14.0,4,Windows,1.95,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,56476.8
+Dell,Ultrabook,13.3,8,Windows,1.29,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Touchscreen Display,3200,True,86526.72
+HP,Notebook,17.3,8,Windows,2.63,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,930MX,Standard Display,1920,False,57542.4
+HP,Notebook,14.0,4,Windows,1.64,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,51841.44
+Acer,Notebook,15.6,6,Windows,2.1,0,1024,0,0,AMD,Other,3.0,AMD,Radeon,R5,Other,1366,False,21791.52
+MSI,Gaming,17.3,8,Windows,2.7,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,63499.10399999999
+HP,Notebook,14.0,8,Windows,1.95,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,63669.6
+HP,Notebook,15.6,8,Windows,1.84,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,65480.5872
+HP,Ultrabook,12.5,8,Windows,1.26,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,71874.72
+HP,Notebook,15.6,4,Windows,2.04,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,39533.76
+Toshiba,Ultrabook,14.0,8,Windows,1.47,256,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,IPS Display,1920,False,91908.0
+Dell,Notebook,15.6,8,Windows,2.09,256,0,0,0,Intel,Core i5,2.4,Intel,HD,Graphics 520,Standard Display,1920,False,56633.976
+HP,Notebook,14.0,8,Windows,1.64,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,53839.9728
+Lenovo,2 in 1 Convertible,15.6,4,Windows,1.8,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,1920,True,45128.16
+Vero,Notebook,14.0,2,Windows,1.45,0,0,32,0,Intel,Other,1.44,Intel,HD,Graphics 400,Other,1366,False,11231.424
+Toshiba,Notebook,15.6,16,Windows,2.4,256,0,0,0,Intel,Core i7,2.5,Nvidia,GeForce,Other,IPS Display,1920,False,75924.0
+Lenovo,Notebook,15.6,8,Windows,2.3,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,55922.688
+HP,Notebook,14.0,4,Windows,1.54,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,53280.0
+HP,Notebook,15.6,8,Windows,1.84,256,500,0,0,Intel,Core i5,2.4,Intel,HD,Graphics 520,Standard Display,1920,False,112065.9552
+HP,Notebook,14.0,8,Windows,1.43,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,78268.31999999999
+MSI,Gaming,17.3,16,Windows,3.78,256,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,GTX 980M,IPS Display,1920,False,82351.6992
+Lenovo,Gaming,17.3,16,Windows,4.6,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 980M,IPS Display,1920,False,122010.66719999998
+Asus,Netbook,11.6,4,Chrome OS,1.2,0,0,16,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,15339.311999999998
+Lenovo,Notebook,14.0,16,Windows,1.1,256,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,IPS Display,2560,False,139593.6
+HP,Notebook,15.6,8,Windows,1.91,0,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,IPS Display,1920,False,52161.12
+Dell,2 in 1 Convertible,15.6,8,Windows,2.3,256,0,0,0,Intel,Core i5,2.7,Intel,HD,Graphics 620,IPS Display,1920,True,58288.32
+HP,Notebook,15.6,4,Windows,2.04,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,52161.12
+Dell,Ultrabook,13.3,16,Windows,1.2,1024,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Touchscreen Display,3200,True,120093.12
+HP,Notebook,15.6,4,Windows,2.31,0,500,0,0,Intel,Core i3,2.3,Intel,HD,Graphics 520,Other,1366,False,37570.392
+HP,Notebook,15.6,4,No OS,1.96,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,26586.72
+Acer,Notebook,15.6,8,Windows,2.4,0,1024,0,0,AMD,Other,2.2,AMD,Radeon,R5,Other,1366,False,23922.72
+Dell,2 in 1 Convertible,13.3,12,Windows,1.6,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,True,69210.72
+MSI,Gaming,15.6,16,Windows,2.94,256,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,96916.32
+HP,Notebook,15.6,8,Windows,2.04,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,57009.6
+Asus,Gaming,17.3,16,No OS,4.0,0,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,Other,IPS Display,1920,False,53173.44
+Dell,Notebook,15.6,4,Windows,2.25,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics,Standard Display,1920,False,29783.52
+Dell,Notebook,15.6,16,Windows,2.32,0,2048,0,0,Intel,Core i7,2.7,AMD,Radeon,R7 M445,Standard Display,1920,False,52746.6672
+MSI,Gaming,15.6,16,Windows,1.8,256,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,102777.12
+Dell,Ultrabook,13.3,8,Windows,1.29,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,77682.23999999999
+Asus,Gaming,17.3,64,Windows,3.58,1024,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,Other,IPS Display,1920,False,211788.0
+Dell,2 in 1 Convertible,13.3,8,Windows,1.62,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,True,42517.9728
+Dell,Gaming,15.6,16,Windows,3.21,256,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,Other,Standard Display,3840,False,70809.12
+Apple,Ultrabook,12.0,8,macOS,0.92,0,0,256,0,Intel,Other,1.1,Intel,HD,Graphics 515,IPS Display,2304,False,69264.0
+Dell,Notebook,15.6,4,Windows,2.06,0,500,0,0,Intel,Core i3,2.3,Intel,HD,Graphics 520,Other,1366,False,25679.8944
+HP,Notebook,15.6,4,Windows,2.31,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,63882.72
+HP,Ultrabook,12.5,8,Windows,1.26,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,63882.72
+HP,Notebook,13.3,8,Windows,1.49,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,58075.2
+Lenovo,Ultrabook,12.5,8,Windows,1.3,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,1920,True,91294.7472
+Lenovo,Notebook,17.3,8,Windows,3.0,0,1024,0,0,Intel,Core i5,2.3,AMD,Radeon,Other,Other,1600,False,35111.52
+Lenovo,Notebook,15.6,4,Windows,2.3,0,1024,0,0,Intel,Core i5,2.3,Nvidia,GeForce,Other,IPS Display,1920,False,52054.56
+MSI,Gaming,17.3,16,Windows,3.78,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,133146.72
+Lenovo,Notebook,15.6,4,Windows,2.1,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,28771.2
+HP,Notebook,15.6,4,Windows,2.31,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,50083.2
+Lenovo,Ultrabook,12.5,8,Windows,0.99,512,0,0,0,Intel,Other,1.2,Intel,HD,Graphics 515,IPS Display,2560,True,74538.72
+Lenovo,Gaming,17.3,32,Windows,4.6,512,0,0,1024,Intel,Core i7,2.7,Nvidia,GeForce,GTX 980M,IPS Display,1920,False,172627.19999999998
+Lenovo,2 in 1 Convertible,10.1,4,Windows,0.69,0,0,64,0,Intel,Other,1.44,Intel,HD,Graphics 400,IPS Display,1920,True,34433.2656
+HP,Ultrabook,13.3,16,Windows,1.3,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,3840,False,109170.72
+Dell,Notebook,15.6,8,Windows,2.18,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Standard Display,1920,False,39960.0
+HP,Notebook,14.0,4,Windows,1.54,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,54931.14719999999
+HP,Workstation,15.6,8,Windows,1.9,256,0,0,0,Intel,Core i7,2.5,AMD,FirePro,Other,Standard Display,1920,False,79653.59999999999
+Lenovo,Notebook,14.0,8,Windows,1.7,180,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,63882.72
+HP,Notebook,13.3,4,Chrome OS,1.29,0,0,32,0,Intel,Other,1.5,Intel,HD,Graphics 515,Standard Display,3200,False,32767.2
+Acer,Notebook,15.6,4,Windows,2.4,0,500,0,0,AMD,Other,2.2,AMD,Radeon,R5,Other,1366,False,20619.36
+Dell,Notebook,15.6,4,Linux,2.2,0,500,0,0,Intel,Other,1.6,Intel,HD,Graphics,Other,1366,False,20965.1472
+HP,Notebook,15.6,4,No OS,1.86,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,18434.3472
+Asus,Gaming,17.3,8,Windows,2.7,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,85194.72
+Dell,Ultrabook,13.3,4,Windows,1.4,256,0,0,0,Intel,Core i5,1.6,AMD,Radeon,530,IPS Display,1920,False,43601.688
+HP,Netbook,12.5,4,Windows,2.4,128,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,85194.72
+Acer,Notebook,15.6,8,Windows,2.4,256,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,Other,Standard Display,1920,False,42570.72
+Dell,Notebook,15.6,8,Windows,2.36,0,1024,0,0,Intel,Core i5,2.5,AMD,Radeon,R7 M445,Standard Display,1920,False,34035.264
+MSI,Gaming,17.3,8,Windows,2.6,256,0,0,0,Intel,Core i7,2.6,Nvidia,GeForce,Other,Standard Display,1920,False,85194.72
+HP,Notebook,15.6,4,Windows,1.96,0,1024,0,0,Intel,Other,1.6,Intel,HD,Other,Other,1366,False,26640.0
+Asus,Gaming,17.3,16,Windows,4.3,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 980M,IPS Display,1920,False,122490.72
+Dell,Ultrabook,12.5,4,Windows,1.5,0,500,0,0,Intel,Core i3,2.3,Intel,HD,Graphics 520,Other,1366,False,60480.792
+Dell,Ultrabook,12.5,4,Windows,1.5,128,0,0,0,Intel,Core i3,2.3,Intel,HD,Graphics 520,Other,1366,False,62176.1616
+Acer,Notebook,15.6,4,Chrome OS,2.2,16,0,0,0,Intel,Celeron Dual Core,1.5,Intel,HD,Graphics,Other,1366,False,11135.52
+HP,Workstation,17.3,8,Windows,3.0,0,1024,0,0,Intel,Core i7,2.6,AMD,FirePro,Other,IPS Display,1920,False,154458.72
+Lenovo,Gaming,15.6,16,Windows,2.4,512,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,63882.72
+Dell,Ultrabook,12.5,8,Windows,1.5,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,75289.968
+MSI,Gaming,17.3,8,Windows,2.9,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 960M,Standard Display,1920,False,80516.20319999999
+Lenovo,2 in 1 Convertible,15.6,4,Windows,2.1,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,IPS Display,1920,True,46193.76
+HP,Notebook,15.6,4,Windows,2.1,0,1024,0,0,AMD,Other,2.5,AMD,Radeon,Other,Standard Display,1920,False,21205.44
+Asus,Gaming,15.6,16,Windows,2.59,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 960M,IPS Display,1920,False,71341.92
+HP,Notebook,13.3,8,Windows,1.16,256,0,0,0,Intel,Other,1.1,Intel,HD,Graphics 515,Touchscreen Display,3200,True,90522.72
+Dell,Notebook,15.6,4,Windows,2.24,0,500,0,0,Intel,Core i5,2.3,AMD,Radeon,Other,Other,1366,False,40980.312
+Lenovo,Notebook,15.6,4,Windows,2.1,128,0,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,22857.12
+HP,Ultrabook,13.3,8,Windows,1.16,512,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,104908.32
+Lenovo,2 in 1 Convertible,10.1,4,Android,0.69,0,0,64,0,Intel,Other,1.44,Intel,HD,Graphics 400,IPS Display,1920,True,29250.72
+Dell,Ultrabook,13.3,8,Windows,1.23,256,0,0,0,Intel,Core i7,2.4,Intel,Iris,Other,Standard Display,1920,False,73473.12
+Lenovo,Gaming,17.3,16,Windows,4.6,256,0,0,1024,Intel,Core i7,2.7,Nvidia,GeForce,GTX 980M,IPS Display,1920,False,146519.46719999998
+Razer,Ultrabook,12.5,8,Windows,1.25,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,3840,True,54825.12
+Toshiba,Ultrabook,13.3,16,Windows,1.05,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,118601.28
+Asus,Gaming,17.3,8,Windows,3.52,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 960M,Standard Display,1920,False,69929.4672
+Vero,Notebook,13.3,4,Windows,1.35,0,0,32,0,Intel,Other,1.44,Intel,HD,Graphics 400,Standard Display,1920,False,10442.88
+HP,Notebook,13.3,8,Windows,1.16,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,90043.2
+HP,Notebook,14.0,8,Windows,1.43,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,80612.64
+Dell,Notebook,15.6,4,Linux,2.09,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,27899.0064
+Asus,Notebook,15.6,4,Windows,2.0,0,1024,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,23176.8
+Lenovo,2 in 1 Convertible,14.0,8,Windows,1.8,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,1920,True,88924.31999999999
+Lenovo,2 in 1 Convertible,10.1,4,Windows,0.69,0,0,64,0,Intel,Other,1.44,Intel,HD,Graphics 400,IPS Display,1920,True,25521.12
+HP,Ultrabook,12.5,8,Windows,1.26,256,0,0,0,Intel,Core i5,2.4,Intel,HD,Graphics 520,Other,1366,False,100965.6
+Lenovo,Gaming,15.6,8,No OS,2.4,128,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,52693.92
+HP,Gaming,17.3,8,Windows,3.35,128,1024,0,0,Intel,Core i5,2.3,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,60153.12
+HP,Notebook,15.6,8,Windows,2.04,0,2048,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Other,1366,False,33513.119999999995
+Lenovo,2 in 1 Convertible,14.0,8,Windows,1.8,512,0,0,0,Intel,Core i7,2.6,Nvidia,Quadro,Other,IPS Display,1920,True,109244.2464
+Asus,Notebook,14.0,4,Windows,1.5,0,0,32,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,14811.84
+HP,Ultrabook,15.6,8,Windows,1.84,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,False,40066.56
+Acer,Notebook,15.6,4,Windows,2.23,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,940MX,Standard Display,1920,False,32820.48
+Lenovo,Notebook,15.6,16,Windows,2.5,0,0,0,1024,Intel,Core i7,2.5,AMD,Radeon,Other,Standard Display,1920,False,58554.72
+HP,Workstation,17.3,8,Windows,3.0,256,0,0,0,Intel,Core i7,2.6,Nvidia,Quadro,Other,IPS Display,1920,False,210424.032
+Dell,Notebook,15.6,8,Windows,2.5,0,1024,0,0,Intel,Core i5,2.5,AMD,Radeon,R7 M445,Other,1366,False,41771.52
+MSI,Gaming,17.3,16,Windows,3.78,256,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,GTX 980M,Standard Display,1920,False,127818.72
+HP,Ultrabook,15.6,8,Windows,1.88,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,115709.2416
+Lenovo,2 in 1 Convertible,14.0,16,Windows,2.8,512,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,IPS Display,2560,True,130003.2
+MSI,Gaming,15.6,8,Windows,2.4,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,60888.384
+HP,2 in 1 Convertible,13.3,8,Windows,1.48,256,0,0,0,Intel,Core i5,2.4,Intel,HD,Graphics 520,Standard Display,1920,True,86793.12
+HP,Workstation,15.6,8,Windows,2.59,256,0,0,0,Intel,Core i7,2.6,Nvidia,Quadro,Other,IPS Display,1920,False,118761.12
+HP,2 in 1 Convertible,13.3,8,Windows,1.48,256,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,Touchscreen Display,2560,True,95850.72
+HP,Workstation,15.6,8,Windows,2.0,256,0,0,0,Intel,Core i7,2.6,Nvidia,Quadro,Other,Standard Display,1920,False,101178.72
+HP,Ultrabook,12.5,8,Windows,1.26,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,122381.49599999998
+Dell,Notebook,15.6,8,Windows,2.18,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Standard Display,1920,False,53807.472
+HP,Notebook,15.6,8,Windows,1.88,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,84129.12
+Lenovo,2 in 1 Convertible,14.0,8,Windows,1.27,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,2560,True,124621.92
+Lenovo,Notebook,15.6,4,No OS,1.9,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,18061.92
+HP,Notebook,15.6,4,Windows,1.86,0,500,0,0,AMD,Other,1.8,AMD,Radeon,Other,Other,1366,False,15824.16
+Lenovo,Notebook,15.6,8,No OS,2.32,0,1024,0,0,Intel,Core i5,2.3,AMD,Radeon,Other,Standard Display,1920,False,31914.72
+Dell,Gaming,15.6,8,Windows,2.62,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,Other,Standard Display,1920,False,63882.72
+Dell,Notebook,15.6,8,Windows,2.04,256,0,0,0,Intel,Core i5,2.3,Nvidia,GeForce,Other,IPS Display,3840,True,119916.2304
+HP,Notebook,15.6,4,Windows,1.91,256,0,0,0,AMD,Other,2.5,AMD,Radeon,520,Standard Display,1920,False,25515.2592
+MSI,Gaming,17.3,16,Windows,2.7,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,1920,False,79536.38399999999
+Lenovo,Ultrabook,14.0,12,Windows,1.4,512,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,Standard Display,1920,False,122490.72
+Lenovo,Notebook,15.6,8,Windows,2.5,0,0,0,1024,Intel,Core i5,2.3,AMD,Radeon,Other,Standard Display,1920,False,42010.7472
+HP,2 in 1 Convertible,13.3,8,Windows,1.48,512,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,Touchscreen Display,2560,True,108744.48
+Lenovo,Ultrabook,14.0,8,Windows,1.7,256,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,Standard Display,1920,False,79866.72
+MSI,Gaming,14.0,16,Windows,1.7,256,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,Other,Standard Display,1920,False,94252.32
+HP,Gaming,15.6,8,Windows,2.62,0,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,47898.72
+Lenovo,Notebook,15.6,8,Windows,2.2,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,24455.52
+HP,Notebook,15.6,4,No OS,2.1,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,25414.0272
+Dell,Gaming,15.6,8,Windows,2.62,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,Standard Display,3840,False,79813.44
+Lenovo,Notebook,15.6,8,Windows,1.95,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,74059.2
+Lenovo,Notebook,15.6,4,Windows,2.2,0,1024,0,0,Intel,Core i3,2.0,Nvidia,GeForce,920MX,Standard Display,1920,False,24935.04
+HP,Notebook,14.0,2,Windows,1.44,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,13266.72
+MSI,Gaming,15.6,8,Windows,2.2,0,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,44701.92
+HP,Notebook,15.6,8,Windows,1.96,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,36177.12
+HP,Notebook,15.6,16,Windows,2.1,512,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,False,61751.52
+Asus,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics,Other,1366,False,19660.32
+Lenovo,Notebook,15.6,4,No OS,2.1,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,21205.44
+Lenovo,Notebook,15.6,8,No OS,2.2,0,1024,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Standard Display,1920,False,37775.52
+Asus,Notebook,14.0,4,Windows,2.0,256,0,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Standard Display,1920,False,40972.32
+Lenovo,Notebook,15.6,4,Windows,2.32,0,0,0,1024,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,43956.0
+Lenovo,Gaming,15.6,16,Windows,3.31,512,0,0,0,Intel,Core i7,2.6,Nvidia,GeForce,Other,IPS Display,1920,False,69530.4
+MSI,Gaming,15.6,16,Windows,1.91,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,Other,Standard Display,1920,False,114731.5536
+HP,Notebook,15.6,4,Windows,2.07,0,500,0,0,Intel,Core i3,2.3,Intel,HD,Graphics 520,Other,1366,False,34632.0
+Lenovo,2 in 1 Convertible,14.0,8,Windows,1.36,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,IPS Display,2560,True,87219.36
+Lenovo,Ultrabook,15.6,6,Windows,1.54,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,Other,Standard Display,1920,False,44275.68
+Dell,Notebook,15.6,8,Linux,1.98,256,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,Other,Standard Display,1920,False,47686.1328
+Acer,Notebook,15.6,4,Windows,2.1,0,500,0,0,Intel,Celeron Dual Core,2.0,Intel,HD,Graphics 500,Other,1366,False,17742.239999999998
+HP,Notebook,15.6,6,Windows,2.18,0,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 960M,IPS Display,1920,False,42570.72
+Asus,Gaming,15.6,8,Windows,2.591,256,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 960M,IPS Display,1920,False,48431.52
+Dell,2 in 1 Convertible,15.6,16,Windows,2.09,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Standard Display,1920,True,62817.12
+Acer,Notebook,15.6,4,Windows,2.23,256,0,0,0,Intel,Core i5,2.5,Nvidia,GeForce,940MX,Standard Display,1920,False,36816.48
+Dell,Ultrabook,13.3,8,Linux,1.23,256,0,0,0,Intel,Core i5,2.4,Intel,HD,Graphics 520,Touchscreen Display,3200,True,58554.72
+Acer,Gaming,17.3,16,Windows,4.2,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,IPS Display,1920,False,138474.72
+Lenovo,Gaming,15.6,8,Windows,2.4,0,1024,0,0,Intel,Core i5,2.5,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,43636.32
+Samsung,2 in 1 Convertible,12.3,4,Chrome OS,1.15,0,0,32,0,Samsung,Other,2.0,ARM,Mali,Other,IPS Display,2400,True,35111.52
+HP,Notebook,15.6,4,Windows,1.86,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,25840.8
+Apple,Ultrabook,12.0,8,macOS,0.92,0,0,256,0,Intel,Other,1.1,Intel,HD,Other,IPS Display,2304,False,61964.64
+Dell,2 in 1 Convertible,13.3,8,Windows,1.6,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,True,63882.72
+HP,Notebook,15.6,12,Windows,2.21,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,IPS Display,1920,False,70702.56
+Lenovo,Notebook,15.6,4,No OS,1.9,0,1024,0,0,Intel,Core i3,2.0,AMD,Radeon,R5 M430,Other,1366,False,19607.04
+Asus,Gaming,17.3,16,Windows,4.3,512,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 980M,IPS Display,1920,False,114552.0
+Acer,Notebook,15.6,4,Linux,2.1,0,1024,0,0,Intel,Celeron Dual Core,2.0,Intel,HD,Graphics 500,Other,1366,False,14492.16
+MSI,Gaming,17.3,16,Windows,2.43,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,109165.392
+Dell,Notebook,15.6,4,Windows,2.3,128,0,0,0,Intel,Core i3,2.0,AMD,Radeon,Other,Other,1366,False,26586.72
+Lenovo,Notebook,15.6,8,No OS,2.2,0,500,0,0,Intel,Core i7,2.5,Nvidia,GeForce,920MX,Other,1366,False,33513.119999999995
+Dell,2 in 1 Convertible,15.6,16,Windows,2.0,512,0,0,0,Intel,Core i7,1.8,Intel,UHD,Graphics 620,Standard Display,1920,True,68464.8
+Dell,Ultrabook,13.3,16,Windows,1.2,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Touchscreen Display,3200,True,142790.4
+Asus,Gaming,15.6,8,Windows,2.2,0,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,62284.32
+Dell,Notebook,15.6,8,Windows,2.36,256,0,0,0,Intel,Core i5,2.5,AMD,Radeon,R7 M445,Standard Display,1920,False,47365.92
+HP,Notebook,15.6,8,Windows,1.91,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,30849.12
+Lenovo,Notebook,15.6,4,Windows,2.2,0,500,0,0,AMD,Other,2.2,AMD,Radeon,Other,Other,1366,False,15930.72
+Acer,Notebook,17.3,8,Windows,3.3,0,1024,0,0,Intel,Core i3,2.0,Nvidia,GeForce,940MX,Other,1600,False,33513.119999999995
+Asus,Gaming,15.6,16,Windows,2.2,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1070,Standard Display,1920,False,130482.72
+Apple,Ultrabook,12.0,8,macOS,0.92,0,0,512,0,Intel,Other,1.2,Intel,HD,Graphics 515,IPS Display,2304,False,68145.12
+Asus,Notebook,15.6,16,Windows,2.2,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,93186.72
+MSI,Gaming,17.3,16,Windows,2.43,256,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 1060,IPS Display,1920,False,103842.1872
+Dell,2 in 1 Convertible,15.6,8,Windows,2.191,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,True,53226.72
+Asus,Gaming,17.3,16,Windows,2.9,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,103842.72
+Acer,Netbook,11.6,2,Chrome OS,1.3,32,0,0,0,Intel,Celeron Dual Core,1.5,Intel,HD,Graphics,Other,1366,False,9270.72
+Acer,Notebook,17.3,4,Windows,3.3,0,1024,0,0,Intel,Core i3,2.0,Nvidia,GeForce,940MX,Other,1600,False,31861.44
+Lenovo,Notebook,17.3,8,No OS,2.8,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1600,False,28717.92
+Lenovo,Gaming,15.6,8,Windows,2.6,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,Other,IPS Display,1920,False,67772.16
+Acer,2 in 1 Convertible,14.0,8,Windows,1.2,256,0,0,0,Intel,Core i7,1.3,Intel,HD,Graphics 615,IPS Display,1920,True,61218.72
+Lenovo,Notebook,15.6,8,Windows,2.3,256,0,0,0,Intel,Core i7,2.6,Intel,HD,Graphics 520,IPS Display,1920,False,81465.12
+MSI,Gaming,15.6,8,Windows,2.2,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,78647.1408
+HP,Notebook,15.6,6,Windows,2.1,0,1024,0,0,AMD,Other,2.7,AMD,Radeon,530,Standard Display,1920,False,28185.12
+Dell,Ultrabook,12.5,8,Windows,1.26,256,0,0,0,Intel,Core i5,2.4,Intel,HD,Graphics 520,Standard Display,1920,True,91288.3536
+Dell,2 in 1 Convertible,15.0,4,Windows,2.08,0,500,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Standard Display,1920,True,27119.52
+Asus,Notebook,15.6,4,Windows,2.65,0,1024,0,0,Intel,Other,1.6,Intel,HD,Other,Other,1366,False,16463.52
+Dell,Ultrabook,13.3,8,Windows,1.29,256,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,Touchscreen Display,3200,True,78694.56
+Dell,Notebook,15.6,4,Linux,2.18,0,1024,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 520,Other,1366,False,27804.7008
+Lenovo,Gaming,15.6,16,Windows,2.6,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 960M,IPS Display,1920,True,54825.12
+MSI,Gaming,15.6,8,Windows,2.2,128,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050,Standard Display,1920,False,61218.72
+Lenovo,Netbook,12.5,16,Windows,1.3,512,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,1920,True,87912.0
+Razer,Gaming,14.0,16,Windows,1.95,1024,0,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,186426.72
+Dell,Notebook,15.6,8,Windows,2.3,0,1024,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Touchscreen Display,1366,True,24988.8528
+MSI,Gaming,17.3,16,Windows,2.7,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1060,Standard Display,1920,False,85141.44
+Apple,Ultrabook,11.6,4,macOS,1.08,0,0,256,0,Intel,Other,1.6,Intel,HD,Other,Other,1366,False,51095.52
+HP,Notebook,15.6,4,Windows,2.1,0,1024,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Standard Display,1920,False,25467.84
+HP,Ultrabook,14.0,8,Windows,1.54,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Other,2560,False,117119.5632
+Dell,Notebook,15.6,4,Windows,2.24,0,500,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Other,1366,False,39267.36
+MSI,Gaming,15.6,8,Windows,2.3,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 960M,Standard Display,1920,False,62284.32
+Lenovo,Notebook,13.3,16,Windows,1.4,512,0,0,0,Intel,Core i7,2.7,Intel,HD,Graphics 620,IPS Display,1920,False,79866.72
+Lenovo,Notebook,15.6,6,Windows,2.2,256,0,0,0,AMD,Other,3.6,AMD,Radeon,530,Standard Display,1920,False,31838.5296
+Asus,Ultrabook,13.3,8,Windows,1.45,256,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,Standard Display,1920,False,68198.4
+Acer,Notebook,15.6,4,Linux,2.4,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,19276.704
+Dell,2 in 1 Convertible,17.3,16,Windows,2.77,512,0,0,0,Intel,Core i7,2.7,Nvidia,GeForce,940MX,Standard Display,1920,True,95850.72
+HP,Notebook,14.0,4,Windows,1.54,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,False,58607.46719999999
+Asus,Gaming,15.6,16,Windows,2.5,256,1024,0,0,Intel,Core i7,2.8,Nvidia,GeForce,GTX 1050 Ti,IPS Display,1920,False,85248.0
+Dell,Notebook,14.0,4,Windows,1.6,0,500,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,Other,1366,False,46620.0
+Asus,Gaming,15.6,16,Windows,2.34,256,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 1070,IPS Display,1920,False,123876.0
+Lenovo,Notebook,15.6,8,No OS,2.3,256,0,0,0,Intel,Core i5,2.5,Intel,HD,Graphics 620,IPS Display,1920,False,30529.44
+Dell,2 in 1 Convertible,13.3,8,Windows,1.24,256,0,0,0,Intel,Core i5,1.2,Intel,HD,Graphics 615,Touchscreen Display,3200,True,96596.64
+Dell,Notebook,15.6,4,Linux,2.2,0,500,0,0,Intel,Other,1.6,Intel,HD,Graphics,Other,1366,False,17262.72
+HP,Notebook,15.6,4,Windows,1.86,0,500,0,0,AMD,Other,2.5,AMD,Radeon,Other,Other,1366,False,21258.72
+Lenovo,Notebook,15.6,6,Windows,2.4,128,0,0,0,Intel,Core i3,2.3,Nvidia,GeForce,920MX,Standard Display,1920,False,30316.32
+Lenovo,Notebook,14.0,8,Windows,1.9,256,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,IPS Display,1920,False,57116.16
+Dell,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Other,1.6,Intel,HD,Graphics,Other,1366,False,23655.7872
+Asus,Notebook,15.6,4,Windows,2.0,0,1024,0,0,Intel,Celeron Dual Core,1.1,Intel,HD,Graphics 500,Other,1366,False,18061.92
+Asus,Gaming,17.3,16,Windows,4.0,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,Other,IPS Display,1920,False,101232.0
+Dell,Notebook,15.6,4,Windows,2.29,0,500,0,0,Intel,Core i3,2.0,Intel,HD,Graphics 520,Other,1366,False,26107.2
+Lenovo,Notebook,15.6,8,Windows,2.32,0,0,0,1024,Intel,Core i7,2.5,AMD,Radeon,Other,Standard Display,1920,False,47685.6
+MSI,Gaming,15.6,8,Windows,2.4,128,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 960M,Standard Display,1920,False,65481.12
+Lenovo,2 in 1 Convertible,14.0,4,Windows,1.8,128,0,0,0,Intel,Core i5,2.3,Intel,HD,Graphics 520,Standard Display,1920,True,44382.7728
+Asus,Ultrabook,13.3,8,Windows,1.2,512,0,0,0,Intel,Other,0.9,Intel,HD,Graphics 515,IPS Display,1920,False,38841.12
+Dell,Notebook,15.6,6,Windows,2.3,0,1024,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,24455.52
+Acer,Notebook,15.6,4,Linux,2.4,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,15397.92
+Dell,Notebook,15.6,2,Windows,2.2,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics,Other,1366,False,20193.12
+Lenovo,Notebook,15.6,8,Windows,2.6,0,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 960M,IPS Display,1920,False,47898.72
+HP,Notebook,15.6,6,Windows,2.04,0,0,0,1024,AMD,Other,2.9,AMD,Radeon,Other,Standard Display,1920,False,29303.4672
+Dell,Notebook,15.6,8,Linux,2.3,0,1024,0,0,Intel,Core i7,2.7,AMD,Radeon,R5 M430,Other,1366,False,42943.1472
+HP,Netbook,11.6,2,Windows,1.17,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,11135.52
+Asus,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Core i7,2.5,Nvidia,GeForce,Other,Other,1366,False,38378.6496
+Lenovo,2 in 1 Convertible,14.0,4,Windows,1.8,128,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,1920,True,33992.64
+Lenovo,2 in 1 Convertible,13.3,16,Windows,1.3,512,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,3200,True,79866.72
+Lenovo,Notebook,14.0,2,Windows,1.5,0,0,64,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics,Other,1366,False,12201.12
+HP,Notebook,15.6,6,Windows,2.19,0,1024,0,0,Intel,Core i7,2.5,AMD,Radeon,Other,Other,1366,False,40705.92
+Asus,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics,Other,1366,False,19660.32
+Asus,Ultrabook,13.3,8,Windows,1.2,512,0,0,0,Intel,Other,0.9,Intel,HD,Graphics 515,IPS Display,1920,False,38841.12
+Dell,Notebook,15.6,6,Windows,2.3,0,1024,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,24455.52
+Acer,Notebook,15.6,4,Linux,2.4,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,15397.92
+Dell,Notebook,15.6,2,Windows,2.2,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics,Other,1366,False,20193.12
+Lenovo,Notebook,15.6,8,Windows,2.6,0,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 960M,IPS Display,1920,False,47898.72
+HP,Notebook,15.6,6,Windows,2.04,0,0,0,1024,AMD,Other,2.9,AMD,Radeon,Other,Standard Display,1920,False,29303.4672
+Dell,Notebook,15.6,8,Linux,2.3,0,1024,0,0,Intel,Core i7,2.7,AMD,Radeon,R5 M430,Other,1366,False,42943.1472
+HP,Netbook,11.6,2,Windows,1.17,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,11135.52
+Asus,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Core i7,2.5,Nvidia,GeForce,Other,Other,1366,False,38378.6496
+Lenovo,2 in 1 Convertible,14.0,4,Windows,1.8,128,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,1920,True,33992.64
+Lenovo,2 in 1 Convertible,13.3,16,Windows,1.3,512,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,3200,True,79866.72
+Lenovo,Notebook,14.0,2,Windows,1.5,0,0,64,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics,Other,1366,False,12201.12
+HP,Notebook,15.6,6,Windows,2.19,0,1024,0,0,Intel,Core i7,2.5,AMD,Radeon,Other,Other,1366,False,40705.92
+Asus,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics,Other,1366,False,19660.32
+Asus,Ultrabook,13.3,8,Windows,1.2,512,0,0,0,Intel,Other,0.9,Intel,HD,Graphics 515,IPS Display,1920,False,38841.12
+Dell,Notebook,15.6,6,Windows,2.3,0,1024,0,0,Intel,Core i3,2.4,Intel,HD,Graphics 620,Other,1366,False,24455.52
+Acer,Notebook,15.6,4,Linux,2.4,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,15397.92
+Dell,Notebook,15.6,2,Windows,2.2,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics,Other,1366,False,20193.12
+Lenovo,Notebook,15.6,8,Windows,2.6,0,1024,0,0,Intel,Core i7,2.6,Nvidia,GeForce,GTX 960M,IPS Display,1920,False,47898.72
+HP,Notebook,15.6,6,Windows,2.04,0,0,0,1024,AMD,Other,2.9,AMD,Radeon,Other,Standard Display,1920,False,29303.4672
+Dell,Notebook,15.6,8,Linux,2.3,0,1024,0,0,Intel,Core i7,2.7,AMD,Radeon,R5 M430,Other,1366,False,42943.1472
+HP,Netbook,11.6,2,Windows,1.17,0,0,32,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics 400,Other,1366,False,11135.52
+Asus,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Core i7,2.5,Nvidia,GeForce,Other,Other,1366,False,38378.6496
+Lenovo,2 in 1 Convertible,14.0,4,Windows,1.8,128,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,1920,True,33992.64
+Lenovo,2 in 1 Convertible,13.3,16,Windows,1.3,512,0,0,0,Intel,Core i7,2.5,Intel,HD,Graphics 520,IPS Display,3200,True,79866.72
+Lenovo,Notebook,14.0,2,Windows,1.5,0,0,64,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics,Other,1366,False,12201.12
+HP,Notebook,15.6,6,Windows,2.19,0,1024,0,0,Intel,Core i7,2.5,AMD,Radeon,Other,Other,1366,False,40705.92
+Asus,Notebook,15.6,4,Windows,2.2,0,500,0,0,Intel,Celeron Dual Core,1.6,Intel,HD,Graphics,Other,1366,False,19660.32
