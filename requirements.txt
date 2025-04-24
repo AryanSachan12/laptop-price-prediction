@@ -4,5 +4,3 @@ scikit-learn
 xgboost
 matplotlib
 seaborn
-scipy
-distutils
